@@ -1,0 +1,1001 @@
+location,square_footage,bedrooms,bathrooms,property_type,year_built,distance_to_tube_km,amenities,price,predicted_price
+Southwark,259.0,1,3,Terraced,1904,1.246773130599906,"near_tube, park_view",120000.0,120000.0
+City of London,1226.0,4,2,Flat,1911,1.807881552440321,"garden, new_build, river_view",2350449.0,2112698.83
+City of London,543.0,1,3,Flat,1969,0.4452208367316418,"ensuite, lift, study",346562.0,161390.75
+Barking and Dagenham,1247.0,2,2,Flat,1919,0.7087665497372737,"ensuite, garage, near_tube, new_build, parking",1835190.0,1950358.5966666667
+Ealing,577.0,4,1,Detached,1962,1.12175739896484,"cellar, concierge, garage, lift",120000.0,133604.17333333334
+Kingston upon Thames,720.0,4,3,Flat,1863,0.1639529437208007,"concierge, loft, new_build, river_view",532334.0,371758.7633333333
+Newham,996.0,1,1,Semi-Detached,1917,1.5993301079705269,"lift, loft, near_tube, park_view, parking",976466.0,1093698.5633333332
+Camden,1209.0,2,2,Terraced,1895,0.6889692704007458,"concierge, ensuite, garage, gym, new_build",2028570.0,1732087.2666666666
+Enfield,783.0,1,2,Maisonette,1859,1.4675526545145852,"ensuite, loft, new_build, park_view, parking, study",441335.0,429015.9266666667
+Tower Hamlets,800.0,3,2,Semi-Detached,1915,0.4871999000693017,garage,600753.0,588052.8933333333
+Brent,617.0,1,2,Semi-Detached,1897,2.8465935680042844,"cellar, new_build",120000.0,136165.81
+Ealing,778.0,1,3,Terraced,1939,1.1842003918045172,"cellar, garden, lift, loft, river_view, study",566255.0,452814.4
+Brent,250.0,1,2,Flat,1914,4.228975362118027,"garage, river_view, study",120000.0,120000.0
+Bexley,1184.0,5,3,Studio,1872,1.4222912442313649,"concierge, garden, lift, loft, new_build, park_view",1732015.0,1757237.92
+Islington,1293.0,2,2,Flat,1895,0.958006839808388,"balcony, concierge, ensuite, garden, near_tube",2154654.0,2020785.16
+Kingston upon Thames,701.0,3,1,Semi-Detached,1943,0.3373904255723222,"balcony, cellar, concierge, gym, park_view",449475.0,372825.83
+Croydon,1047.0,2,1,Semi-Detached,1991,1.6042136403858562,"balcony, cellar, garage, new_build, study",1438124.0,1310432.1933333334
+Sutton,912.0,5,2,Flat,1878,1.290564167538833,garage,796741.0,911231.78
+Lambeth,1151.0,3,3,Flat,1986,1.2469629044510966,"balcony, cellar, garage, loft",1758473.0,1695922.3233333332
+Lambeth,1318.0,1,2,Terraced,1876,0.9312295367100848,garden,1952392.0,2020919.5
+Croydon,407.0,1,1,Detached,1939,0.2624257750086746,"ensuite, lift, loft, near_tube, park_view, parking",120000.0,120000.0
+Hillingdon,956.0,3,2,Flat,1966,0.8886508648325838,"cellar, parking, river_view",1183966.0,1110030.6266666667
+Enfield,799.0,4,3,Terraced,2012,0.4126714646668729,"cellar, ensuite, garage, parking, river_view",616783.0,698397.2233333334
+Redbridge,896.0,1,1,Terraced,1890,0.7358328643803466,"balcony, lift, loft, near_tube, park_view",778432.0,726576.5266666666
+Camden,725.0,1,3,Flat,1889,1.7454138679313975,"cellar, concierge, garage, gym, loft, near_tube",436052.0,291946.16333333333
+Harrow,977.0,2,1,Terraced,1943,0.5188651401671517,parking,1128547.0,1117238.8833333333
+Redbridge,974.0,5,2,Semi-Detached,1959,2.542630309996435,"cellar, park_view",1213858.0,1198478.28
+Newham,547.0,2,2,Semi-Detached,1857,1.0770338553457046,"balcony, concierge, garden, gym, lift, parking",120000.0,120639.87666666666
+Croydon,856.0,4,2,Semi-Detached,1936,0.9015169058151572,"balcony, garden, near_tube",794342.0,818480.2
+Westminster,1203.0,5,3,Terraced,1963,0.0981651322548679,ensuite,2255232.0,1875630.04
+Islington,833.0,5,3,Flat,1973,0.0924482481615077,"near_tube, park_view, parking",1124541.0,849098.35
+Enfield,873.0,5,2,Flat,1937,0.6888245604498406,"new_build, parking",922423.0,925815.97
+Hammersmith and Fulham,668.0,5,2,Terraced,1974,1.0020822445541546,"balcony, garage, gym, loft, parking, study",615867.0,383331.74333333335
+Brent,856.0,4,2,Flat,1962,1.941835161725787,"cellar, ensuite, garage, garden, lift",854032.0,854509.59
+Wandsworth,253.0,5,3,Flat,2017,0.6792059564639218,near_tube,120000.0,122863.61666666667
+Newham,1038.0,1,1,Studio,1986,1.0806815237073573,"garage, gym, loft, new_build, parking, study",1303555.0,1354193.2766666666
+Lewisham,1336.0,4,1,Flat,1935,1.1824547863038417,"gym, near_tube, park_view",2235106.0,2208459.566666667
+Tower Hamlets,734.0,5,2,Flat,1933,0.872735746293612,"cellar, garden, loft, park_view, study",716251.0,477839.52
+Lewisham,709.0,1,3,Flat,1858,1.4965104726693046,"garage, lift",233254.0,207713.46
+Southwark,856.0,4,1,Flat,1966,0.2889668243109654,loft,970925.0,856280.8233333334
+Haringey,832.0,2,2,Detached,2007,0.7106397898072696,"garden, new_build, parking",984274.0,763842.5366666666
+Waltham Forest,547.0,4,1,Semi-Detached,1972,0.6214836115865844,"garden, lift",120000.0,121537.76666666666
+Bexley,861.0,1,1,Flat,1939,0.2818864999600549,"ensuite, new_build",499590.0,735462.29
+Wandsworth,1362.0,1,1,Semi-Detached,1886,1.3856112075627065,"balcony, garage",2339807.0,2378515.1566666667
+Camden,628.0,2,1,Semi-Detached,1998,0.103829188890617,"loft, near_tube, new_build, study",234636.0,254356.28
+Hillingdon,1471.0,2,1,Flat,1909,1.3964373431792896,"garage, gym, near_tube, river_view",2344082.0,2590416.183333333
+Islington,642.0,2,2,Flat,2020,2.589712164651518,"cellar, ensuite, lift, loft, near_tube",381790.0,199208.67333333334
+Kingston upon Thames,1162.0,3,2,Flat,2007,1.498007636302725,cellar,1784850.0,1838824.7566666666
+Richmond upon Thames,880.0,1,1,Flat,2020,2.463752391904389,"ensuite, garage, gym, lift, near_tube, study",833441.0,859088.34
+Kensington and Chelsea,605.0,2,2,Flat,1877,0.8651946372170934,"concierge, ensuite",471752.0,411712.50666666665
+Bexley,643.0,4,2,Flat,1916,0.5491525956444879,"balcony, ensuite, lift, near_tube, new_build, river_view",229993.0,155056.26
+Kingston upon Thames,1204.0,4,2,Terraced,1947,1.2698140173285353,"cellar, new_build",1816849.0,1765686.79
+Richmond upon Thames,1227.0,5,3,Semi-Detached,2017,2.7904717812622413,"garden, loft, new_build, parking, study",2288835.0,2033700.4433333334
+Redbridge,952.0,2,2,Flat,1997,0.5904869020387928,"cellar, ensuite, near_tube, parking, river_view",827243.0,1033130.6333333333
+Wandsworth,835.0,5,3,Flat,1972,0.9256924836243856,"lift, parking, river_view, study",1007161.0,842830.67
+Lambeth,802.0,2,1,Studio,1886,1.5855779760335025,"garden, lift, loft, river_view",571594.0,536346.3733333333
+Islington,1021.0,1,3,Detached,1994,0.5011916659719341,"ensuite, near_tube",1398143.0,1346068.2366666666
+Westminster,293.0,1,1,Maisonette,1994,0.4936230712203158,"concierge, gym, lift",120000.0,122304.28
+Kingston upon Thames,1188.0,1,2,Terraced,1905,0.3046614584928965,"concierge, garage, loft, new_build, parking, study",1683417.0,1695098.6333333333
+Merton,570.0,5,2,Terraced,1976,0.8474829759139196,park_view,120000.0,148830.11
+Islington,674.0,2,2,Flat,1897,2.3205410961698782,"balcony, gym, near_tube, new_build, park_view",233067.0,204870.84333333332
+Bromley,613.0,3,2,Flat,2000,0.6126222569108085,"balcony, garage, new_build",120000.0,160061.38
+Hackney,1335.0,5,2,Semi-Detached,1984,1.290792672723285,"concierge, lift",2340096.0,2336495.51
+Southwark,1229.0,3,2,Flat,1891,0.1864078402815731,"cellar, concierge, near_tube, park_view, study",2011467.0,1833838.0433333332
+Sutton,855.0,4,1,Terraced,2004,0.4845120991218646,"concierge, near_tube",739922.0,863065.0033333333
+Ealing,644.0,3,3,Flat,1943,0.9137925861186932,"balcony, garden, gym, river_view, study",145548.0,184780.90666666668
+Croydon,1011.0,1,3,Semi-Detached,1926,1.787392062626646,"ensuite, garage, gym, lift, park_view",1036562.0,1190715.3433333333
+City of London,742.0,4,1,Flat,1860,0.8288064172522744,"garage, loft, new_build, river_view",702803.0,718822.3966666666
+Lewisham,1236.0,4,1,Flat,1922,0.7287670603481604,loft,1750132.0,2005140.7233333334
+Tower Hamlets,807.0,2,3,Terraced,1949,1.9031660256194671,"cellar, garage",839856.0,617362.9766666667
+Kensington and Chelsea,411.0,2,3,Semi-Detached,1901,2.2063730856994823,"garage, gym, new_build, park_view, river_view, study",120000.0,130326.72666666667
+Haringey,1194.0,2,1,Terraced,1990,1.3689561061025708,"concierge, new_build, study",1852726.0,1804220.53
+Enfield,996.0,3,3,Terraced,1960,0.241410463654445,"balcony, concierge",1143640.0,1220310.0133333334
+Redbridge,601.0,1,2,Flat,1937,1.9864178400726833,"cellar, loft",120000.0,126593.51333333334
+Hounslow,1144.0,5,3,Flat,1881,1.2709678629339407,"balcony, concierge, lift, parking",1700391.0,1572055.71
+Croydon,761.0,2,1,Flat,1883,0.4306060923359106,river_view,250928.0,342217.75
+Croydon,771.0,5,1,Flat,1898,0.4824906693876665,"cellar, gym, loft, river_view, study",504014.0,514741.2966666667
+Bexley,1166.0,2,1,Detached,1974,2.084614933341896,"gym, lift, near_tube",1590652.0,1802625.6433333333
+Waltham Forest,250.0,1,3,Flat,1922,0.7481923069992794,"cellar, garden, gym, near_tube, park_view, river_view",120000.0,120000.0
+Waltham Forest,625.0,3,1,Terraced,2006,1.7099885303300402,park_view,120000.0,180155.37666666668
+Kensington and Chelsea,1346.0,4,2,Flat,1953,1.00271386838283,"garage, garden, lift, loft, park_view, study",2922787.0,2386888.2066666665
+Lambeth,250.0,2,2,Studio,1910,0.459344217163658,"cellar, garden",120000.0,120081.51
+Redbridge,654.0,2,3,Terraced,1917,0.7783889615501906,"balcony, cellar",120000.0,232961.48
+Kensington and Chelsea,1169.0,1,3,Flat,1878,2.843739238459611,"balcony, ensuite, garage, gym, lift, new_build",1892334.0,2072457.3533333333
+City of London,761.0,3,1,Flat,2021,2.154272323105315,"new_build, park_view, study",780090.0,675159.4166666666
+Merton,968.0,3,1,Flat,1990,1.057637532359982,"cellar, garden, new_build, river_view",1238833.0,1163376.1633333333
+Sutton,685.0,2,2,Maisonette,1860,1.0420679826495651,"balcony, gym, river_view",120000.0,173662.27333333335
+Croydon,693.0,5,2,Studio,1955,2.8842813743516107,"new_build, park_view",355512.0,353942.8566666667
+Islington,250.0,3,1,Flat,1880,2.0959781659058376,"garden, park_view",120000.0,120162.86666666667
+Lewisham,288.0,2,2,Detached,1852,2.1791531850832593,"cellar, ensuite, garage, lift",120000.0,120000.0
+Barking and Dagenham,1230.0,4,1,Terraced,1907,1.016794051274934,"ensuite, garage, garden, loft, park_view, parking",1733130.0,1858046.73
+Kensington and Chelsea,957.0,2,3,Flat,1959,1.5706880809439068,"concierge, ensuite, garage",1618211.0,1439406.5633333332
+Ealing,911.0,3,1,Flat,2015,0.2676608630389886,"concierge, river_view",973039.0,1022936.93
+Bromley,623.0,2,2,Flat,1895,1.1071613810270764,"balcony, cellar, loft, near_tube, parking, river_view",120000.0,126091.82333333333
+City of London,762.0,2,3,Flat,1925,1.6084103493480326,"garden, loft",792531.0,603877.0966666667
+Southwark,664.0,3,1,Semi-Detached,2022,2.1525209051181577,"garden, gym, lift, new_build",286976.0,274335.08666666667
+Hillingdon,474.0,1,3,Flat,1936,0.9133707726557336,"balcony, river_view",120000.0,120000.0
+Hounslow,801.0,4,2,Terraced,1966,1.2043713004977852,"balcony, concierge, garage, loft, new_build, parking",686301.0,647918.15
+City of London,1103.0,5,3,Terraced,1927,0.9556489252423098,garden,2003453.0,1810771.2966666666
+Havering,1055.0,1,1,Flat,1933,0.9774558945408665,new_build,1113667.0,1292727.7166666666
+Haringey,474.0,5,3,Flat,1867,2.2281029162829395,"balcony, cellar, near_tube, study",120000.0,120000.0
+Hillingdon,667.0,2,2,Semi-Detached,1896,0.104780268290063,"concierge, garden, park_view, parking, study",186220.0,195736.29333333333
+Barking and Dagenham,250.0,2,1,Flat,1967,1.9974692946010584,"cellar, ensuite, lift, near_tube, new_build",120000.0,120000.0
+Wandsworth,899.0,4,2,Flat,1998,1.2299540667614173,"ensuite, garage, garden, lift, near_tube",1132652.0,971191.56
+Waltham Forest,1416.0,4,1,Flat,2008,0.8099862433287739,"balcony, cellar, concierge, gym, near_tube, park_view",2407237.0,2415439.8066666666
+Kingston upon Thames,1270.0,3,1,Flat,1936,0.9022025890807578,gym,2055323.0,2020118.9433333334
+Hillingdon,766.0,3,2,Flat,1943,1.9123303903082791,"concierge, garden, lift, loft, park_view, river_view",608864.0,468918.66
+Barking and Dagenham,294.0,2,3,Semi-Detached,1884,0.6753731598985707,"balcony, lift, park_view, river_view",120000.0,120000.0
+Merton,913.0,2,2,Terraced,2016,2.4517565872197644,"cellar, loft, near_tube, park_view, parking, study",1158788.0,966666.9233333333
+Kingston upon Thames,1397.0,1,3,Detached,1961,0.3005418330772055,"ensuite, loft, near_tube, park_view, river_view",2427966.0,2427437.7333333334
+Westminster,444.0,2,1,Detached,1960,0.515790313288865,"balcony, garden, loft, new_build, study",120000.0,120913.91
+Bromley,1131.0,2,1,Semi-Detached,1983,1.4409372477044975,garage,1470768.0,1518324.68
+Haringey,1262.0,1,3,Flat,1961,1.7442693732622037,"balcony, lift",1929137.0,1999759.9833333334
+Haringey,743.0,3,3,Maisonette,1984,1.8609493583963672,"cellar, ensuite, garden, new_build, parking, river_view",506107.0,495356.3466666667
+Harrow,1330.0,4,2,Flat,2022,2.259305010223086,"garage, parking",2267555.0,2327142.7666666666
+Haringey,690.0,3,1,Flat,1953,0.4609128873326283,"concierge, lift, loft, new_build, park_view, study",346449.0,342914.52
+Haringey,984.0,1,2,Detached,1932,0.8065707384481106,"balcony, garden, gym, lift, new_build, parking",1199750.0,1135747.4766666666
+Kensington and Chelsea,1167.0,4,3,Terraced,2000,1.3171815926067405,"cellar, ensuite, lift",2210971.0,2112012.58
+Islington,323.0,1,3,Flat,1930,0.5199383106832618,"concierge, ensuite, garden, gym, park_view, river_view",120000.0,120000.0
+Hounslow,1104.0,4,3,Terraced,1852,1.328936250292701,ensuite,1336732.0,1528513.9533333334
+Richmond upon Thames,831.0,1,1,Semi-Detached,1877,1.5648955730122511,"lift, new_build, parking",662249.0,588109.1133333333
+Kingston upon Thames,493.0,2,1,Flat,1986,0.989866090914345,"balcony, ensuite, garage, loft, park_view, parking",120000.0,120000.0
+Redbridge,1189.0,5,1,Terraced,1850,1.4142204285742808,"balcony, garage, gym, near_tube, parking",1711036.0,1731104.72
+Waltham Forest,803.0,3,3,Terraced,1863,1.1818881205056575,"ensuite, garden, new_build, study",392663.0,539116.4266666666
+Kingston upon Thames,754.0,3,1,Terraced,1891,1.3784899003024955,"balcony, cellar, park_view, river_view, study",458408.0,407945.61
+City of London,1227.0,2,3,Terraced,1960,0.6571681194410431,"garden, gym, lift, parking",2090988.0,2207089.0633333335
+Waltham Forest,1241.0,4,2,Semi-Detached,1986,1.1857098857398611,"concierge, loft, parking, study",2015112.0,2095156.2933333332
+Kingston upon Thames,739.0,4,1,Flat,1919,1.2222790298236152,"garden, gym",460182.0,414575.97
+Hillingdon,819.0,1,1,Semi-Detached,1902,0.630633805841309,"cellar, ensuite, garden, parking",391884.0,549155.2433333333
+Hillingdon,794.0,5,2,Terraced,1906,0.5312088285102222,"cellar, garden, loft, new_build, parking",395956.0,597084.19
+Wandsworth,452.0,3,3,Flat,1945,0.5961593341959784,"cellar, ensuite, gym, near_tube, park_view, study",120000.0,121006.86333333333
+City of London,660.0,5,3,Terraced,1968,1.1456627755736182,"balcony, concierge, gym, loft",758951.0,577993.2633333333
+Westminster,1257.0,1,2,Detached,1941,1.829779980523256,"near_tube, new_build",2315764.0,2105202.736666667
+Waltham Forest,1220.0,3,2,Studio,1851,1.0022906545880346,"cellar, concierge, garage, near_tube, study",1680233.0,1713039.2066666668
+Enfield,371.0,1,1,Flat,1958,0.9503327101847348,lift,120000.0,120000.0
+Haringey,656.0,3,3,Detached,2006,1.0882408462104176,cellar,169355.0,275616.06666666665
+Barnet,738.0,1,1,Semi-Detached,1881,1.4755792254606015,"balcony, cellar, concierge, lift, near_tube, study",286360.0,288280.5
+Westminster,1032.0,2,3,Flat,1989,2.989226058075488,"cellar, ensuite, garage, lift, loft, near_tube",1676382.0,1588763.43
+Waltham Forest,250.0,5,2,Flat,1867,1.4391622426084287,"garage, garden, near_tube, new_build",120000.0,120000.0
+Bromley,803.0,5,3,Semi-Detached,1856,2.212386541491602,"balcony, garage, gym, parking, river_view, study",570994.0,531148.6633333333
+Tower Hamlets,1136.0,3,1,Flat,2013,1.3380649131363895,loft,1704756.0,1653560.1166666667
+Camden,1189.0,3,3,Terraced,1978,1.4378623541343132,"cellar, concierge, garage",2218698.0,1855096.4933333334
+Havering,1246.0,3,3,Detached,1925,2.0173768629788977,lift,1812688.0,1936260.4933333334
+Sutton,1207.0,1,3,Flat,1920,0.1918131649605771,"garden, near_tube",1615186.0,1803616.48
+Southwark,907.0,2,1,Semi-Detached,1977,1.7474773116346154,"concierge, garage, new_build, park_view, parking",921352.0,961575.3366666667
+Richmond upon Thames,552.0,1,1,Flat,1856,2.054266146306819,lift,120000.0,124699.13666666667
+Camden,1133.0,5,2,Flat,2009,2.3585769051755423,"concierge, ensuite, gym, study",2032318.0,1704338.98
+Richmond upon Thames,877.0,2,3,Flat,1991,1.8739790504655949,garden,1064186.0,847622.6
+Hackney,1356.0,1,1,Semi-Detached,1850,2.5001289367345154,"concierge, garage",2076289.0,2211832.5933333333
+Wandsworth,1178.0,4,3,Detached,1925,3.017077749853725,"loft, new_build",1946871.0,1725071.3766666667
+Brent,522.0,3,2,Detached,1979,0.2101063411451597,"ensuite, park_view, study",120000.0,120043.54333333333
+Barking and Dagenham,676.0,5,3,Flat,1954,0.6028356513035517,"ensuite, garage, garden, lift, near_tube",264166.0,381144.7133333333
+Redbridge,427.0,1,1,Maisonette,1969,0.9496492178346664,"concierge, garden, loft, park_view, parking, study",120000.0,120000.0
+Haringey,1010.0,1,1,Flat,1856,0.6076809586389967,"balcony, garage, loft, parking, river_view",1026865.0,1092899.2333333334
+Hounslow,928.0,5,1,Maisonette,2012,0.2597205336622094,"cellar, garden, lift, near_tube, parking, study",1005918.0,1101092.89
+Lambeth,727.0,4,1,Terraced,1961,0.689128220421818,"balcony, cellar",535318.0,528251.21
+Southwark,906.0,5,2,Flat,2009,2.3543403009403567,"balcony, loft, parking, study",1130454.0,1047257.9366666666
+City of London,1578.0,5,2,Flat,1943,2.905367266229314,"cellar, gym, near_tube",3488254.0,3117634.3333333335
+Bromley,768.0,2,2,Flat,1916,2.854671298049455,"garden, gym, lift, near_tube, new_build, study",351584.0,444422.37666666665
+Barking and Dagenham,600.0,1,2,Flat,1860,0.2240526398341061,"concierge, near_tube, new_build",120000.0,128198.33333333333
+Redbridge,1148.0,3,2,Semi-Detached,1966,1.4768458813853165,"balcony, park_view, parking",1634535.0,1618126.9866666666
+Ealing,552.0,2,2,Detached,1959,0.710547405622428,"loft, river_view",120000.0,124461.47
+Harrow,1172.0,5,3,Flat,2022,2.075373857597953,"cellar, parking",1672311.0,1949536.2933333332
+Ealing,667.0,4,2,Terraced,1877,1.385057869372528,cellar,120000.0,241853.39
+Tower Hamlets,936.0,3,1,Terraced,1888,1.2279464048919395,"garage, near_tube, parking, river_view",1185183.0,938514.4133333333
+Tower Hamlets,1013.0,3,3,Detached,1960,0.6448199235590998,"balcony, garden, gym, loft, near_tube",1554979.0,1264222.3233333332
+Bromley,781.0,4,3,Flat,1930,1.9042651481265296,near_tube,538179.0,577714.4633333334
+Hounslow,1510.0,3,2,Detached,1956,0.7558637945945411,"concierge, ensuite, garage, garden, lift, loft",2822827.0,2821428.6566666667
+Haringey,632.0,1,1,Flat,1933,2.4274973194107794,"cellar, river_view",120000.0,200553.50333333333
+Westminster,1004.0,4,1,Terraced,1908,1.4111636605256723,"near_tube, river_view",1523823.0,1458811.36
+Hammersmith and Fulham,668.0,5,1,Semi-Detached,1894,1.6829075888034486,"balcony, gym",428739.0,315088.74
+Brent,299.0,2,3,Semi-Detached,1861,0.3280478503495793,"cellar, ensuite, garden, lift, park_view",120000.0,120043.77666666667
+Islington,705.0,4,2,Terraced,1910,2.2616677230974633,"ensuite, gym, loft, new_build",471465.0,355764.6533333333
+Lambeth,1089.0,2,2,Flat,1991,2.9765801638409495,near_tube,1442888.0,1471722.65
+Bexley,544.0,5,1,Flat,1859,2.4102222101869293,"ensuite, gym, lift, near_tube, new_build, parking",120000.0,120122.15
+Lambeth,292.0,5,1,Semi-Detached,1853,0.5645848715428767,"concierge, ensuite, near_tube, river_view",120000.0,120000.0
+Wandsworth,1170.0,5,1,Flat,1955,1.4875088908550074,"concierge, lift, parking",1930631.0,1789374.1033333333
+Hammersmith and Fulham,1049.0,5,2,Flat,1954,0.7656583904282422,lift,1659533.0,1493829.71
+Hackney,739.0,1,3,Flat,1923,4.391924234735427,"cellar, garage, garden, new_build",407966.0,433297.77
+Hounslow,740.0,1,3,Flat,1974,0.894516728873635,"balcony, loft, near_tube",383797.0,444176.50333333336
+City of London,917.0,3,1,Terraced,1870,0.2917571130009118,"gym, park_view, river_view",1170659.0,1190746.2233333334
+Sutton,941.0,3,3,Flat,1902,0.5952250785416544,"balcony, lift, loft, park_view, river_view",1094342.0,945553.3
+Southwark,1033.0,2,3,Flat,1879,0.6410527012098454,"lift, near_tube, new_build, parking",1252249.0,1186621.9533333334
+Newham,756.0,3,3,Flat,1999,0.6052232196017572,"cellar, gym, new_build, study",541269.0,575042.4933333333
+Kensington and Chelsea,821.0,2,1,Flat,1856,3.3275548170382057,"balcony, garden, gym, near_tube, park_view, study",1103982.0,1043161.1633333333
+Merton,1158.0,3,2,Flat,2013,1.198820099675813,balcony,1890057.0,1879962.63
+Barking and Dagenham,807.0,5,1,Semi-Detached,1964,3.3033798612695766,park_view,630206.0,630714.06
+Brent,1584.0,2,3,Terraced,1929,0.7128163319254875,"ensuite, garage, lift, river_view",2977045.0,2995527.6866666665
+Enfield,615.0,1,2,Detached,1873,0.3302689232348816,near_tube,120000.0,123905.13666666667
+Harrow,1309.0,2,2,Flat,1962,4.367253853507628,"balcony, parking, study",2022258.0,2099457.8666666667
+Islington,974.0,3,3,Semi-Detached,1895,0.6231463181977154,new_build,1119491.0,1130607.53
+Richmond upon Thames,1191.0,1,3,Flat,1872,0.8700902135457564,"garden, gym, lift",1869984.0,1706838.3366666667
+Islington,829.0,5,1,Flat,1984,0.9273887302201858,"balcony, lift, new_build, study",801305.0,747309.2933333333
+Wandsworth,1200.0,3,2,Flat,1938,2.3769038740037645,"park_view, study",1918546.0,1707342.58
+Hillingdon,1146.0,3,1,Terraced,1975,0.4560281934176377,"garden, gym, park_view",1689221.0,1651716.0933333333
+Newham,804.0,5,3,Flat,1889,0.3913792282746635,"cellar, concierge, garage, loft, parking",652700.0,528881.11
+Camden,510.0,4,2,Terraced,1866,1.133912904439157,concierge,120000.0,131073.92
+Waltham Forest,1278.0,3,1,Terraced,2021,0.2382037936967567,"cellar, concierge, gym",2002651.0,2087787.0833333333
+Islington,814.0,4,2,Maisonette,1953,2.3315562591010757,"balcony, ensuite, loft, near_tube",837124.0,717402.69
+Hammersmith and Fulham,250.0,3,1,Terraced,1860,1.1293518626740155,"gym, study",120000.0,168855.76666666666
+Sutton,441.0,4,3,Flat,1959,0.3135222722544186,"balcony, cellar, concierge, garden, river_view",120000.0,120000.0
+Westminster,862.0,2,2,Flat,1987,1.4260326158718386,"ensuite, near_tube, river_view",1077465.0,1043882.51
+Barking and Dagenham,719.0,5,2,Flat,1935,2.5198778897174336,"balcony, concierge, garden, gym, parking, study",261601.0,476202.62333333335
+Greenwich,500.0,5,2,Maisonette,1882,0.6003940777301793,river_view,120000.0,120000.0
+Merton,1190.0,5,3,Semi-Detached,1950,0.6911203913426217,"balcony, concierge, garage",1989473.0,1816248.4166666667
+Harrow,1306.0,5,2,Detached,1875,0.39508786292433,ensuite,2129933.0,2068975.56
+Lewisham,1142.0,5,2,Detached,1981,0.9053218008032866,river_view,1590434.0,1712282.53
+Barking and Dagenham,1584.0,4,2,Semi-Detached,1962,0.5343077200148726,"balcony, ensuite, garden, study",2966208.0,3003186.8633333333
+Islington,1296.0,4,3,Flat,1974,2.1918639337987296,"ensuite, garage, garden, near_tube, new_build",2524049.0,2120557.803333333
+Lambeth,693.0,1,3,Flat,2004,1.2817795471121485,"cellar, garden, loft",217330.0,342784.2233333333
+Ealing,901.0,1,1,Studio,1917,0.8221723926582406,"garage, garden, gym, parking",673838.0,831126.0933333334
+Bromley,751.0,5,1,Detached,1851,1.7268514830388042,"cellar, concierge, gym, lift, near_tube, park_view",399683.0,411835.81333333335
+Croydon,837.0,3,3,Semi-Detached,1973,2.9427330948450416,"balcony, concierge, ensuite, parking, river_view",705838.0,723142.5
+Wandsworth,1167.0,4,3,Terraced,1943,0.8482330998591756,"garage, loft",1950045.0,1783720.6733333333
+Barking and Dagenham,1172.0,3,1,Terraced,1889,2.451342626321217,"concierge, ensuite, lift, loft, park_view, parking",1348649.0,1706107.4933333334
+Greenwich,1414.0,3,1,Flat,1878,0.9013751739360698,"balcony, concierge",2226476.0,2431897.09
+Redbridge,382.0,4,1,Studio,2005,0.6842189234083892,"garden, new_build",120000.0,120000.0
+Ealing,766.0,2,2,Flat,1925,0.6430603445391031,"balcony, concierge, ensuite, loft, river_view, study",463002.0,461957.26666666666
+Wandsworth,779.0,3,3,Semi-Detached,1882,0.5237362495851414,study,615867.0,503213.7233333333
+Greenwich,1259.0,2,3,Flat,1882,0.5689842198630413,"balcony, garage, near_tube",1762268.0,1889059.07
+Harrow,495.0,1,3,Flat,2011,1.2381863843973009,"concierge, ensuite, parking, study",120000.0,120000.0
+Kingston upon Thames,964.0,2,2,Flat,1999,1.3664578889755743,"ensuite, gym, new_build, study",1092964.0,1083469.7066666668
+Kensington and Chelsea,771.0,4,1,Flat,1934,0.4054136856430402,"balcony, cellar, gym, lift, near_tube, parking",1145267.0,935144.1266666667
+Southwark,896.0,2,2,Terraced,1998,0.6567541755430226,gym,967922.0,885933.9066666666
+Southwark,603.0,1,3,Semi-Detached,2022,1.95646573793958,"balcony, loft, river_view",120000.0,191066.55
+Camden,997.0,3,3,Detached,1915,0.749522534792439,"balcony, garden, lift, near_tube, parking, study",1386022.0,1341844.9033333333
+Barking and Dagenham,753.0,1,1,Terraced,1875,1.4623378761287371,"garage, garden, near_tube",160858.0,348021.66
+Wandsworth,1256.0,4,2,Terraced,1932,1.7745959328720684,"parking, river_view",2002630.0,2004049.5166666666
+Bexley,317.0,4,3,Terraced,1886,1.3341742524203093,"garage, garden, gym, near_tube, new_build",120000.0,120000.0
+Hammersmith and Fulham,383.0,2,3,Semi-Detached,1860,0.1245741483046571,new_build,120000.0,129120.23
+Merton,1027.0,1,2,Semi-Detached,1984,0.6817391254673332,"cellar, concierge, near_tube",1340271.0,1276261.9933333334
+Bexley,1296.0,5,3,Flat,1966,1.0648600656526352,lift,2077986.0,2076370.8966666667
+Hackney,583.0,3,3,Maisonette,1978,3.6632845384831687,ensuite,134057.0,137091.5
+Barking and Dagenham,1283.0,1,1,Terraced,2017,1.28620483647849,concierge,1702843.0,2028068.9733333334
+Brent,1320.0,5,3,Flat,1946,3.364800206131372,"concierge, garden, gym, loft, new_build, park_view",2243697.0,2174644.72
+Hackney,855.0,2,3,Flat,1928,1.0973794228580027,"garden, study",883432.0,766935.8166666667
+Newham,356.0,5,1,Flat,1866,1.3420569595084886,"loft, parking, river_view",120000.0,120000.0
+Merton,1170.0,5,2,Studio,2019,1.3478296500254532,cellar,1925656.0,1881690.1333333333
+Barking and Dagenham,926.0,4,2,Flat,1985,2.2525072255249428,"parking, river_view",866960.0,1045987.99
+Hillingdon,766.0,1,3,Flat,1853,1.1934926477877896,"loft, study",267209.0,378586.9633333333
+Greenwich,870.0,3,1,Flat,1898,0.5086863915465438,"ensuite, garage",692648.0,759828.3033333333
+City of London,1164.0,2,1,Terraced,1891,1.1581750039006775,"cellar, loft, parking",1894824.0,2072480.24
+City of London,780.0,3,3,Detached,1886,1.5655657258605815,"concierge, garden, park_view, river_view, study",1005466.0,608864.6133333333
+Enfield,1033.0,2,2,Terraced,1872,1.7262696068740822,"cellar, concierge, garage, near_tube, parking, study",1034260.0,1123713.27
+Tower Hamlets,984.0,3,2,Detached,2007,1.2084089339845874,park_view,1153215.0,1172194.0433333332
+Waltham Forest,778.0,3,2,Flat,1990,3.880276770907307,"garden, gym, park_view, river_view",414320.0,586411.47
+Haringey,1402.0,2,2,Maisonette,1912,0.7748201779094762,"cellar, ensuite, garage, gym, loft, parking",2484063.0,2368938.6433333335
+Bexley,1343.0,1,3,Flat,1913,1.0794443736563963,ensuite,2187569.0,2213032.93
+Camden,649.0,3,3,Flat,1978,1.2475190789989832,"balcony, concierge, gym, loft, parking",488141.0,294241.83
+Bromley,916.0,2,1,Terraced,1925,1.038045151084662,"balcony, garden, near_tube, park_view",905660.0,916493.58
+Greenwich,1020.0,5,1,Detached,1969,1.206904665661625,"park_view, parking, river_view",1570911.0,1353970.6166666667
+Lambeth,1228.0,1,1,Flat,1985,0.6264697389815198,near_tube,1965421.0,1885830.9433333334
+Greenwich,981.0,3,1,Terraced,1949,1.474991712685229,gym,1028384.0,1173724.1033333333
+Hammersmith and Fulham,623.0,3,1,Flat,1924,0.391178965953817,concierge,182462.0,213900.27333333335
+Bexley,578.0,1,1,Flat,2001,2.7748897485471464,"gym, new_build, parking",120000.0,142871.18666666668
+Hounslow,1084.0,3,2,Detached,1974,0.5232448437289773,"concierge, lift, near_tube",1345768.0,1568367.7666666666
+Lambeth,903.0,4,1,Maisonette,1921,0.7969537471846778,"balcony, garage, lift, loft, park_view, parking",1054843.0,961299.9433333334
+Barnet,1176.0,1,3,Maisonette,1912,1.1630762768208245,"cellar, garden, gym, new_build, park_view, river_view",1705502.0,1685792.89
+Redbridge,528.0,1,3,Flat,1970,0.4145455703833378,"cellar, ensuite, garage, gym, new_build",120000.0,120043.77666666667
+Westminster,379.0,1,3,Flat,1905,0.3732049118528942,"concierge, ensuite, gym, new_build, parking",120000.0,121675.84
+Camden,898.0,4,2,Flat,2013,0.9545217468593962,"cellar, lift, near_tube, parking, study",1200413.0,1023495.9066666666
+Barnet,614.0,4,2,Terraced,2014,0.594750082456586,new_build,120000.0,175874.65
+Barking and Dagenham,642.0,1,3,Flat,1982,1.168218709113254,parking,120000.0,186972.51333333334
+Hackney,912.0,2,1,Detached,1891,1.0039795136464775,"concierge, garage, gym, lift, loft, parking",992014.0,761313.8366666667
+Redbridge,1077.0,4,3,Flat,1853,0.2588813544656493,"balcony, lift, park_view, parking, river_view",1453177.0,1443209.5133333334
+Lambeth,965.0,4,1,Flat,1988,1.3977538468824866,"balcony, gym, study",1229966.0,1203797.8266666667
+Harrow,1209.0,2,3,Studio,1972,0.5912505551716785,garden,1880003.0,1830817.1466666667
+Westminster,1199.0,4,3,Flat,1971,1.924524489890236,parking,2105141.0,1869175.9066666667
+Sutton,1189.0,1,2,Semi-Detached,1862,1.2017643396618465,"cellar, concierge, garden, gym",1469185.0,1649740.2233333334
+Greenwich,603.0,1,2,Semi-Detached,1944,0.8546114718898822,"ensuite, lift, near_tube, new_build, river_view",120000.0,123597.28333333334
+Enfield,1056.0,2,3,Flat,1887,1.1954925625770794,"balcony, cellar, concierge, garage, garden, park_view",1355370.0,1380482.9333333333
+Sutton,1029.0,5,1,Terraced,1955,0.7445431359372504,"cellar, ensuite",1317437.0,1329389.39
+Tower Hamlets,1221.0,4,2,Flat,1981,0.2630383041679565,"concierge, lift",2025298.0,1934577.98
+Hounslow,297.0,3,3,Flat,1913,2.3922386778500706,"parking, river_view",120000.0,120000.0
+Hackney,562.0,4,2,Semi-Detached,1906,1.236328210085609,"ensuite, garage, gym, lift, park_view",120000.0,125639.81333333334
+Islington,1048.0,2,2,Flat,1937,1.3803340709825789,"concierge, garage, garden, park_view, study",1522380.0,1385217.4333333333
+Bromley,991.0,5,2,Terraced,1929,0.7766987088281119,"cellar, concierge, garden, park_view, parking, study",1209452.0,1267763.0966666667
+Greenwich,563.0,5,2,Flat,2004,0.1531413230162402,"cellar, garden, gym, loft, parking",120000.0,129818.09
+Hammersmith and Fulham,1118.0,2,3,Flat,1902,1.6708131226127056,cellar,1695851.0,1583048.9166666667
+Southwark,855.0,3,1,Terraced,1922,1.4591744688821806,"garage, gym, lift, near_tube, new_build",824987.0,782575.26
+Brent,1378.0,5,3,Terraced,1975,0.3872176387926632,"garage, loft, new_build",2476624.0,2399412.9066666667
+Greenwich,1195.0,3,2,Terraced,2018,0.4913737781176542,"garden, river_view",1849887.0,1829931.1333333333
+Barnet,903.0,3,3,Studio,1953,1.695091702952659,"concierge, ensuite, garage, garden, gym, new_build",825071.0,959935.8066666666
+Hounslow,1033.0,1,3,Flat,1947,2.234598105509391,"ensuite, near_tube",1291876.0,1285506.2866666666
+Barnet,1182.0,2,1,Detached,1884,1.1995228520736936,garden,1542978.0,1682965.1633333333
+Croydon,1068.0,1,3,Maisonette,1992,0.866648099962179,"balcony, ensuite, study",1165223.0,1479476.5166666666
+Haringey,780.0,2,3,Semi-Detached,1962,3.042333808899951,"gym, river_view",533159.0,488076.07
+Islington,397.0,2,2,Flat,1852,1.821217016349428,"cellar, loft",120000.0,120000.0
+Islington,1433.0,1,3,Semi-Detached,1956,1.6268517986633544,new_build,2737653.0,2403474.5166666666
+Wandsworth,750.0,3,2,Flat,1981,0.8568003893237871,"ensuite, garage, gym, river_view",554998.0,507986.89666666667
+Redbridge,1276.0,4,1,Maisonette,2011,2.870588901146073,garage,2028410.0,2142005.9033333333
+Barking and Dagenham,524.0,4,3,Terraced,1945,1.8529730353946705,gym,120000.0,120000.0
+Islington,1065.0,3,3,Flat,1881,0.8693194500551232,"balcony, new_build",1337111.0,1393922.5133333334
+Merton,666.0,2,3,Flat,1965,0.2361676738852788,"cellar, garage, new_build, parking",353186.0,322469.13666666666
+Hillingdon,971.0,2,1,Studio,1988,1.7653520466090105,"cellar, concierge, lift",982599.0,1087039.2233333334
+Haringey,1166.0,1,3,Studio,1938,1.3339405865819949,"balcony, park_view, study",1650625.0,1690533.2566666666
+Hillingdon,709.0,4,3,Flat,1974,3.527586514864849,"balcony, gym",434571.0,437929.2766666667
+Haringey,716.0,3,3,Flat,1926,1.4539573559117165,"garage, study",273885.0,413886.20666666667
+Enfield,1207.0,5,2,Semi-Detached,1983,0.2852234796034092,"cellar, concierge, gym, lift, park_view",1917319.0,1896434.9433333334
+Haringey,1207.0,1,2,Flat,1895,0.969606198460006,"gym, parking",1626847.0,1702005.14
+Hackney,1230.0,2,3,Terraced,1993,1.0955039845173384,"balcony, cellar, river_view",2133947.0,1924883.4
+Merton,1399.0,1,2,Semi-Detached,1883,0.693783537772447,"ensuite, new_build, study",2256351.0,2443474.5
+Kingston upon Thames,966.0,2,2,Flat,1954,0.8166870714392014,"lift, loft",1047259.0,1102249.4933333334
+Kensington and Chelsea,627.0,2,1,Flat,1895,1.303396743959351,"concierge, garage, loft",422158.0,526425.24
+Harrow,654.0,4,1,Flat,2019,0.5221162067029986,cellar,237805.0,301253.6433333333
+Camden,1363.0,2,1,Semi-Detached,1882,0.8340575121146735,"garden, lift, loft, parking, river_view, study",2294874.0,2448511.6366666667
+Barking and Dagenham,1838.0,1,3,Flat,2018,0.181068987134902,"cellar, river_view",3639231.0,3751909.5033333334
+Westminster,664.0,1,3,Flat,1891,0.7003426029501005,"near_tube, park_view",349683.0,466606.9533333333
+Ealing,711.0,3,1,Terraced,1896,1.1188134709203643,"concierge, loft, near_tube, new_build, park_view, river_view",167741.0,348591.9
+Kingston upon Thames,834.0,5,3,Maisonette,1959,0.4890839389820048,"near_tube, parking",876237.0,814353.6766666666
+City of London,1337.0,3,2,Terraced,1952,2.2297495700826926,"concierge, garage, park_view, river_view",2674622.0,2365837.1466666665
+Hounslow,450.0,4,1,Flat,1872,0.6353087220969889,"lift, new_build, river_view, study",120000.0,120000.0
+Bromley,554.0,3,3,Semi-Detached,1856,2.7892332100367345,"balcony, cellar, near_tube, parking, river_view",120000.0,120000.0
+Havering,1044.0,4,2,Flat,1852,2.0592227867794786,"balcony, garage, lift, river_view",1184249.0,1205457.6066666667
+Islington,904.0,4,1,Semi-Detached,1866,0.6881012540980614,"garden, gym, lift, river_view",998856.0,830614.79
+Croydon,1445.0,5,2,Semi-Detached,1864,0.3861153958715438,"concierge, garage, park_view, river_view",2418729.0,2579452.96
+Southwark,1290.0,5,2,Semi-Detached,2001,0.9346768210261798,"cellar, garage",2247996.0,2132370.6266666665
+Lambeth,419.0,1,1,Terraced,1975,0.8457401621156141,gym,120000.0,120000.0
+Lewisham,1122.0,5,1,Flat,1922,1.084524447171451,"concierge, gym, near_tube, park_view, parking, river_view",1516655.0,1628079.5833333333
+Hackney,1300.0,4,3,Detached,1923,1.7062210027608498,"balcony, cellar, garage, gym, lift, parking",2189206.0,2121149.65
+Hammersmith and Fulham,774.0,3,1,Flat,1874,1.724839195478265,"lift, loft, new_build",614118.0,456271.74
+Barking and Dagenham,1070.0,3,1,Maisonette,1891,1.548773744888767,study,1045835.0,1306382.5333333334
+Islington,958.0,1,2,Semi-Detached,1890,1.2675777483156232,"lift, loft",1060598.0,1013711.7166666667
+Lambeth,774.0,4,3,Detached,2021,0.9033236708071136,"gym, lift, new_build",653711.0,653897.1366666667
+Waltham Forest,615.0,5,2,Studio,1883,1.7221763184702816,"garage, loft, park_view, study",120000.0,130061.71333333333
+Ealing,556.0,2,2,Flat,1970,2.6707666912863446,"cellar, concierge, parking",120000.0,120676.16666666667
+Southwark,1003.0,1,2,Studio,1969,1.7970511271207388,loft,1167016.0,1228177.96
+Bexley,1076.0,1,3,Flat,1916,2.1952519728554756,"ensuite, garage, loft, study",1186164.0,1350701.2666666666
+Sutton,548.0,4,2,Terraced,1997,0.6417693428041352,parking,120000.0,124398.32
+Wandsworth,1371.0,2,3,Maisonette,1945,0.920240477443692,"concierge, gym, parking, river_view",2561671.0,2445974.61
+Wandsworth,398.0,4,2,Flat,2023,0.6517682800916852,"concierge, lift, parking",120000.0,122332.55333333333
+Camden,409.0,2,1,Terraced,1947,0.5937470059848177,"balcony, concierge, garden, gym",120000.0,123841.10666666667
+Redbridge,667.0,3,1,Terraced,2014,2.2436886471290194,"cellar, garden, gym, lift, near_tube, river_view",172129.0,295436.00666666665
+Bexley,1039.0,5,1,Studio,2006,1.1783607715709987,"concierge, loft, parking, study",1246703.0,1415850.2166666666
+Lewisham,1111.0,3,3,Maisonette,1867,1.5626056714881469,"cellar, ensuite, garden, gym, new_build",1512479.0,1478681.3666666667
+Barking and Dagenham,362.0,5,1,Flat,1888,0.2656946829925566,"ensuite, garden, loft, new_build, park_view",120000.0,120000.0
+Kingston upon Thames,837.0,1,1,Flat,1923,0.5123396928412532,"concierge, gym, loft, park_view, river_view",525574.0,661354.9066666666
+Bromley,1056.0,2,1,Flat,2011,0.9423912824203596,"ensuite, lift, new_build, park_view",1441424.0,1336113.46
+Richmond upon Thames,250.0,3,1,Maisonette,1879,0.88756320236393,"balcony, garden, gym, new_build, river_view",120000.0,120043.54333333333
+Barking and Dagenham,656.0,2,2,Flat,1863,0.8424152198144085,"cellar, lift, parking, study",120000.0,165982.96333333335
+Westminster,1135.0,1,1,Flat,1971,2.6851839872785854,"concierge, garage, lift, near_tube, park_view, study",1891893.0,1712046.8266666667
+Lambeth,899.0,2,1,Flat,1975,1.5133681773135843,"balcony, concierge, ensuite, gym, lift, study",1074421.0,910090.33
+Camden,708.0,5,3,Terraced,1880,0.3299240655938621,"balcony, concierge, near_tube",854566.0,339250.3433333333
+Kensington and Chelsea,1089.0,1,2,Flat,1927,1.2361259708720758,"cellar, garden, new_build, park_view, parking",1853970.0,1785870.3966666667
+Camden,250.0,1,3,Detached,1879,0.5079384643112274,"garden, gym, new_build, parking, study",120000.0,124018.11333333333
+Havering,753.0,2,2,Terraced,1864,0.7077212236167695,"cellar, concierge, garden, lift, park_view",262735.0,369967.38333333336
+Bexley,693.0,1,3,Terraced,1940,0.9650032849912712,"balcony, ensuite, garden",120000.0,281938.08666666667
+Enfield,1377.0,3,3,Flat,1970,4.969698889842024,"river_view, study",2272807.0,2357303.296666667
+Lambeth,1057.0,4,3,Semi-Detached,1992,0.3908944212269631,"concierge, new_build, park_view, parking, study",1804074.0,1440250.9266666668
+Southwark,497.0,5,1,Flat,1972,0.4645089714715941,"concierge, ensuite, new_build",120000.0,120000.0
+Merton,855.0,1,2,Flat,1978,1.0477335797887852,"cellar, garage, new_build, parking, study",786730.0,818765.9766666667
+Greenwich,693.0,3,3,Flat,1926,0.696606224017443,"garden, lift",423017.0,274153.29
+Sutton,987.0,4,2,Flat,1912,0.0945526034680271,"cellar, garden",1192456.0,1165322.8633333333
+Merton,567.0,3,1,Flat,1886,1.4413500986792926,"balcony, near_tube",120000.0,120892.04666666666
+Croydon,988.0,3,3,Flat,1955,0.0942796184989602,"gym, new_build",1162925.0,1211730.2133333334
+Lambeth,968.0,2,2,Maisonette,2021,1.6956599734188946,loft,1232488.0,1117664.7133333334
+Merton,744.0,5,3,Studio,1885,1.6271976963372912,"cellar, concierge, garage, garden",403073.0,391208.9666666667
+Croydon,1018.0,4,2,Semi-Detached,2023,2.8152489119466355,river_view,1102809.0,1357050.13
+Enfield,812.0,1,3,Detached,1988,1.8718775470452729,concierge,600213.0,617162.4166666666
+Barking and Dagenham,923.0,4,1,Maisonette,1921,0.6957887750498835,"garage, lift",764739.0,1002935.2366666667
+Kingston upon Thames,869.0,3,3,Flat,1925,0.3738319037536924,parking,794490.0,824903.7666666667
+Bexley,590.0,3,2,Flat,1881,0.8144009709110563,"concierge, ensuite, garden, parking, river_view",120000.0,127525.52333333333
+Harrow,923.0,1,1,Flat,1860,1.122189925093809,"balcony, concierge, ensuite, garage, lift",653680.0,780580.2433333333
+Southwark,663.0,3,2,Terraced,1995,0.261169746729034,"cellar, loft, near_tube, new_build",179033.0,325894.5733333333
+Waltham Forest,650.0,3,3,Studio,1907,1.854372759931884,"lift, loft, near_tube, new_build, study",263828.0,164051.17333333334
+Barnet,1423.0,4,3,Terraced,1962,1.7662701575648128,"garden, gym, near_tube, park_view, study",2635863.0,2387977.6233333335
+Barnet,948.0,1,1,Maisonette,1965,1.6446757091267776,"balcony, cellar, ensuite, garden, gym, park_view",1102976.0,978969.68
+Hillingdon,250.0,3,2,Maisonette,2010,0.2358147958026681,near_tube,120000.0,120000.0
+Waltham Forest,961.0,1,3,Flat,2002,0.9706191833544094,"garage, loft, parking, study",1164194.0,1062591.3366666667
+Harrow,1548.0,5,2,Semi-Detached,2019,2.179529213022568,"balcony, near_tube, parking",3033506.0,2947959.92
+Hounslow,430.0,1,2,Flat,1861,2.619177189990356,"ensuite, garage, gym, loft",120000.0,120000.0
+Kensington and Chelsea,1308.0,2,3,Detached,1928,1.750138931788079,"cellar, river_view, study",2547268.0,2499451.3966666665
+Lewisham,982.0,3,2,Terraced,1867,0.525266491636042,"garden, gym, loft, new_build, park_view, river_view",1092987.0,1041245.9833333333
+Kensington and Chelsea,695.0,2,1,Terraced,2005,0.9693584831916756,"cellar, concierge, gym, park_view, river_view",808779.0,643889.32
+Sutton,568.0,1,2,Flat,1904,0.4958567554632865,"ensuite, new_build",120000.0,138834.73
+Hillingdon,1201.0,3,2,Flat,1865,0.4196654431157138,"concierge, garden, gym, park_view",1682739.0,1735274.4166666667
+Ealing,1419.0,5,3,Flat,1868,0.4501205244058796,cellar,2485013.0,2433669.46
+Harrow,1107.0,3,3,Flat,1856,0.3667815741765105,"cellar, garden, gym",1464076.0,1493576.0366666666
+Westminster,1033.0,2,2,Terraced,1990,0.7967767756227301,"ensuite, study",1684893.0,1605679.13
+Camden,1265.0,5,2,Flat,1891,0.6511064054121144,"cellar, new_build, study",2323102.0,2062652.7633333334
+Sutton,594.0,3,2,Detached,1880,0.8929596731543062,"cellar, ensuite, park_view, river_view",120000.0,137799.04
+Croydon,714.0,3,1,Flat,1993,1.5247598022669535,"cellar, concierge, loft, park_view",359777.0,460608.7366666667
+Islington,1470.0,1,1,Maisonette,1950,0.94951467406917,"ensuite, lift, new_build, park_view, river_view",2632480.0,2741524.28
+Lewisham,1094.0,2,1,Flat,1901,0.05,"ensuite, garage, park_view, river_view",1442290.0,1401714.46
+Richmond upon Thames,1075.0,1,3,Terraced,1909,1.0993819143456276,"balcony, lift, river_view",1475011.0,1341369.68
+Tower Hamlets,1153.0,2,2,Terraced,2010,1.2495149320029275,"balcony, garage, garden, loft, near_tube, river_view",1741360.0,1659042.8233333332
+Hackney,686.0,3,3,Flat,2015,0.5560242371960149,"ensuite, near_tube, park_view",362164.0,357638.4166666667
+Harrow,365.0,2,1,Terraced,1870,0.2988563694641503,"balcony, garden, lift, new_build",120000.0,120284.81
+Waltham Forest,1638.0,4,2,Terraced,1969,0.6090280357948473,"balcony, cellar, lift, near_tube",3130981.0,3176843.973333333
+Newham,1034.0,1,2,Flat,2019,0.5552438723227915,"balcony, lift",1119492.0,1390389.7866666666
+Hammersmith and Fulham,584.0,1,3,Semi-Detached,1898,1.4485688532325285,"cellar, gym, lift, new_build, park_view, river_view",126146.0,154599.44
+City of London,1138.0,2,2,Flat,1858,1.190801949342699,"concierge, garden, new_build, river_view",1819591.0,1719441.6866666668
+Haringey,984.0,4,3,Terraced,1854,1.2978110826699307,"balcony, garage, parking, study",1075659.0,1098324.5033333334
+Brent,674.0,4,3,Semi-Detached,1909,1.017342285639569,"concierge, ensuite, garage",245550.0,261833.24
+Merton,1005.0,2,2,Semi-Detached,1851,0.9210018027939616,"cellar, concierge, ensuite, lift, new_build, study",1148704.0,1070551.97
+Harrow,784.0,4,3,Terraced,1853,0.6719707604239528,"concierge, garden, lift, river_view",426124.0,518190.76
+Hammersmith and Fulham,731.0,2,2,Semi-Detached,1923,0.4597296821012228,"ensuite, gym, lift, park_view",582067.0,466498.4066666667
+Lambeth,1015.0,2,2,Semi-Detached,1935,0.9985937122166236,"balcony, garage, near_tube, parking",1304421.0,1209108.3766666667
+Croydon,321.0,3,1,Terraced,1957,0.05,"garage, garden, gym, loft, river_view",120000.0,122855.68
+Redbridge,1018.0,1,2,Flat,1898,0.6763948818564847,"cellar, concierge, gym, lift, river_view, study",1192306.0,1175464.75
+Brent,632.0,1,2,Flat,1852,0.9428512922327468,"ensuite, garage, loft, new_build, park_view",120000.0,129272.98666666666
+Newham,848.0,2,1,Flat,1931,0.6495729072005977,"cellar, loft, new_build, river_view",686702.0,760829.3733333333
+Havering,1111.0,3,2,Terraced,2011,0.6540472622348152,"ensuite, near_tube, park_view, parking, study",1400863.0,1602949.04
+Hounslow,894.0,5,2,Terraced,1984,0.9978728481541588,"garden, near_tube, river_view, study",821107.0,993371.76
+Brent,1467.0,4,3,Studio,1864,1.596312640212464,"ensuite, lift",2526681.0,2578318.2933333335
+Waltham Forest,904.0,1,2,Detached,1966,0.3196292050819602,"cellar, loft, park_view",944193.0,896971.35
+Barnet,635.0,1,2,Semi-Detached,1965,0.8506167149109293,"garden, near_tube",150494.0,201237.25333333333
+Richmond upon Thames,1343.0,3,3,Detached,1959,2.026979585134818,park_view,2378613.0,2232460.283333333
+Newham,551.0,2,1,Flat,2005,2.052420614792208,"concierge, ensuite, garage, garden, park_view, river_view",120000.0,120000.0
+Ealing,1008.0,1,1,Flat,1993,0.1151231618222193,"cellar, ensuite, gym, lift, near_tube, park_view",1258584.0,1223121.68
+Westminster,662.0,5,2,Flat,1891,1.5618189966904792,"balcony, concierge, ensuite, garage, loft, river_view",583345.0,461678.31333333335
+Merton,1375.0,1,3,Flat,1974,1.962845031021114,"garage, lift, new_build, park_view, study",2413155.0,2421156.4433333334
+Sutton,1216.0,4,1,Flat,1949,0.2977658176613738,cellar,1861844.0,1795795.4966666666
+City of London,533.0,4,1,Semi-Detached,1897,1.2451641884616154,"concierge, garage",120000.0,160841.95
+Kensington and Chelsea,832.0,2,3,Flat,1950,1.2333296439399226,"garden, new_build",1137306.0,1132743.3033333332
+Barnet,1171.0,2,3,Detached,2006,0.3009509243825474,"lift, loft",1783000.0,1780386.2033333334
+Hillingdon,736.0,3,2,Flat,1895,1.441423030348975,cellar,173796.0,382135.9733333333
+Lambeth,723.0,2,3,Maisonette,1867,0.3219348461664548,"ensuite, garden, loft, study",349218.0,293840.1066666667
+Tower Hamlets,1183.0,2,3,Flat,1986,0.5621564372525373,"ensuite, gym, new_build, river_view",1908435.0,1794652.48
+Lambeth,473.0,5,2,Maisonette,1893,1.1889794545906802,study,120000.0,120000.0
+Wandsworth,852.0,4,3,Flat,1874,1.1460484343436574,"new_build, river_view",928668.0,776018.7166666667
+Waltham Forest,552.0,3,2,Flat,2006,2.4640644826193587,"balcony, gym, lift, river_view, study",120000.0,121041.90333333334
+Hackney,1024.0,2,1,Terraced,1874,1.6539268601583494,"balcony, concierge, ensuite, garage, lift, new_build",1221046.0,1133567.45
+Westminster,1018.0,1,1,Detached,1899,0.355339543207883,"garage, loft, study",1450631.0,1445860.86
+Kensington and Chelsea,922.0,1,2,Maisonette,1966,1.504115355610147,"concierge, ensuite, garden, gym",1386038.0,1335112.3466666667
+Merton,805.0,2,3,Flat,1876,1.280409748069027,"cellar, ensuite, garden, river_view",582532.0,525090.4366666666
+Harrow,738.0,3,2,Terraced,1920,3.5490279741200794,"cellar, ensuite, park_view",213425.0,420913.62333333335
+Wandsworth,703.0,1,2,Studio,1878,1.093943772531586,"balcony, cellar, concierge, ensuite, garage, river_view",343360.0,209573.31333333332
+Hounslow,1007.0,5,3,Studio,1920,0.852305362885636,"garage, gym, lift, near_tube, parking, study",1253869.0,1242984.3433333333
+Croydon,454.0,4,3,Studio,2013,0.0615087765239272,"garden, lift, new_build, parking",120000.0,124572.12
+Sutton,664.0,1,3,Semi-Detached,1967,0.1945484286111636,"garden, gym, lift, parking, river_view",251724.0,322426.21
+Hammersmith and Fulham,548.0,3,3,Flat,1900,1.6589505679265866,"concierge, ensuite, garage, garden, river_view, study",120000.0,130969.30666666667
+Enfield,566.0,5,1,Terraced,1906,3.228330002370322,gym,120000.0,120765.38333333333
+Brent,581.0,5,3,Detached,1850,1.455872121645818,"new_build, parking",120000.0,146400.16
+Waltham Forest,700.0,3,1,Maisonette,1912,0.760853902483239,"cellar, concierge, gym, near_tube, new_build",276473.0,256647.42666666667
+Waltham Forest,602.0,1,3,Maisonette,1910,1.0292633406878025,"balcony, concierge, near_tube, new_build, river_view, study",120000.0,121871.11333333333
+Tower Hamlets,1088.0,2,1,Terraced,1889,0.6782733505832911,"cellar, ensuite, near_tube, river_view",1531678.0,1391211.6766666668
+Lambeth,1194.0,5,1,Maisonette,2006,1.1692373780448166,new_build,2000531.0,1887454.6733333333
+Kensington and Chelsea,913.0,1,3,Flat,1972,0.3827233871338651,"ensuite, garden, new_build",1531371.0,1284625.55
+Islington,1089.0,3,3,Flat,1932,0.4994582323412848,"balcony, garage, new_build, parking",1775638.0,1542032.0866666667
+Camden,719.0,3,2,Semi-Detached,1968,1.3672100079097065,"garden, gym, loft, parking, river_view, study",759972.0,491314.04
+Waltham Forest,829.0,4,3,Semi-Detached,1927,1.800744546281157,"ensuite, parking, study",716373.0,727260.11
+Westminster,977.0,4,3,Flat,2021,1.774099411203968,gym,1509009.0,1460614.2033333334
+Hounslow,1001.0,5,1,Semi-Detached,2009,0.3561671774092793,"cellar, lift, loft, near_tube, new_build, study",1309393.0,1317491.0033333334
+Bromley,661.0,4,2,Flat,2023,0.8613678891827998,"garden, gym, loft, park_view, river_view, study",306145.0,329188.4733333333
+Kensington and Chelsea,1019.0,4,2,Terraced,1981,1.825006055704741,"garage, garden, loft, near_tube",1901052.0,1770064.55
+Camden,779.0,3,3,Flat,1999,0.498208188217414,"balcony, cellar, concierge, garden, gym, near_tube",802441.0,692021.46
+Croydon,858.0,4,2,Flat,1911,0.5768563599297801,"balcony, ensuite, gym, near_tube, park_view, study",733469.0,800526.01
+Brent,769.0,5,1,Flat,1878,1.4325373668523873,"balcony, ensuite, garage, study",405236.0,475273.19666666666
+City of London,1039.0,5,1,Flat,1960,1.5425328215577052,new_build,1770607.0,1502913.44
+Newham,845.0,2,2,Detached,1870,0.7261801200150281,"cellar, concierge, ensuite, loft, near_tube",558892.0,677865.6066666667
+Waltham Forest,733.0,2,2,Terraced,1864,0.1649260519221437,"garden, loft, near_tube, parking",304118.0,357455.86333333334
+Bexley,462.0,5,2,Detached,1906,0.3890260259098595,"balcony, garden, gym, new_build, park_view",120000.0,120000.0
+Harrow,1405.0,1,3,Semi-Detached,1864,0.3495730806370108,"cellar, garage, gym, near_tube, park_view, river_view",2358673.0,2364302.1
+Waltham Forest,793.0,5,2,Flat,1974,0.6854260192247859,"balcony, concierge, new_build",461861.0,692877.5533333333
+Bexley,648.0,4,2,Semi-Detached,1987,2.7646512827524323,ensuite,120000.0,171430.71666666667
+Waltham Forest,879.0,2,1,Terraced,1942,2.0804576145266194,"cellar, garage, near_tube",670104.0,826354.1266666667
+Kensington and Chelsea,1194.0,3,1,Studio,1922,3.410425382048013,"concierge, park_view",2237104.0,2116025.2266666666
+Bexley,982.0,5,3,Flat,1923,1.27429014949007,"ensuite, garden, gym, near_tube, new_build, river_view",1332069.0,1211442.7166666666
+Havering,587.0,5,1,Flat,1914,0.647310298038336,"balcony, concierge, garage, garden, gym, near_tube",120000.0,123354.37666666666
+Croydon,1007.0,1,3,Maisonette,1962,2.6435726223665728,"ensuite, gym, new_build, park_view, river_view, study",907043.0,1208818.3966666667
+Southwark,766.0,1,3,Detached,1926,0.7124621597527397,"cellar, garage, river_view",439366.0,464505.18
+Greenwich,1387.0,1,3,Flat,1891,1.0635269751724945,"cellar, ensuite, gym",2229237.0,2447159.796666667
+Haringey,671.0,5,2,Flat,1887,0.1779979016879823,"gym, lift, loft, park_view",228763.0,272267.82
+Enfield,373.0,3,1,Flat,1909,1.9309693931383216,"garden, river_view",120000.0,120000.0
+Waltham Forest,821.0,3,2,Studio,1897,2.136235928967419,"cellar, gym, loft",490467.0,635846.37
+Hammersmith and Fulham,994.0,5,3,Flat,1927,0.6511346057696393,ensuite,1484749.0,1293597.8233333332
+Barking and Dagenham,836.0,1,2,Flat,1886,0.4611784408669225,"balcony, garage, loft, new_build, parking, study",468348.0,581824.95
+Southwark,634.0,4,2,Semi-Detached,1912,0.962203799207276,"balcony, concierge, near_tube",240437.0,209244.09333333332
+Hackney,1005.0,1,1,Flat,1995,1.3142037850438533,"balcony, cellar, loft",1329889.0,1208589.06
+Hounslow,1083.0,1,1,Flat,1936,1.4819848765964931,"balcony, cellar, garage, garden, near_tube, parking",1352221.0,1432277.0
+Redbridge,638.0,4,1,Flat,1989,0.7047256635682277,garage,120000.0,237562.50333333333
+Greenwich,1168.0,3,1,Flat,1894,0.2025320667819158,"cellar, lift, river_view",1740946.0,1700010.1933333334
+City of London,1153.0,2,2,Maisonette,1891,0.3659884455510758,"loft, park_view, parking, study",2114608.0,1844344.35
+Croydon,936.0,2,2,Flat,1926,0.3580642532397033,lift,1005368.0,953044.1966666667
+Redbridge,1009.0,1,3,Flat,1947,1.2087283123637609,"balcony, ensuite, garage, new_build, river_view, study",1156873.0,1195001.4
+Westminster,355.0,5,1,Terraced,1875,0.7453486130604656,study,120000.0,122094.8
+Westminster,1012.0,2,2,Flat,1920,0.76400495210755,"ensuite, garden",1541968.0,1484353.53
+Kingston upon Thames,1169.0,3,3,Flat,2008,1.2023781910610956,"concierge, ensuite, garden, gym",1735349.0,1868293.6366666667
+Richmond upon Thames,886.0,3,1,Studio,1975,1.4302222632203618,"concierge, garage, new_build, park_view, parking, study",1050406.0,983800.0433333333
+Bromley,740.0,1,3,Maisonette,1969,1.7335231954483772,"balcony, ensuite, garage, garden, park_view",291018.0,441778.1066666667
+Hounslow,436.0,5,2,Terraced,1876,1.410859033604712,"cellar, lift, loft, park_view",120000.0,120000.0
+Redbridge,633.0,3,2,Flat,1974,2.433264885181956,"balcony, ensuite, garden, near_tube, river_view",195780.0,155265.25666666665
+Islington,1187.0,3,3,Studio,1904,1.2013909226797297,"near_tube, parking",2025326.0,1774933.2733333334
+Brent,1258.0,4,1,Flat,1880,0.8435369648002761,garden,1928473.0,1894594.0866666667
+Ealing,890.0,5,2,Flat,1926,1.117137819035989,"balcony, cellar, ensuite, parking, river_view",859852.0,987828.59
+Westminster,849.0,1,2,Flat,1997,2.646508563438211,"balcony, cellar, garage, garden, gym, lift",1021043.0,999352.4966666667
+Havering,840.0,3,1,Maisonette,1980,0.6541212920864491,"park_view, parking",557019.0,792457.6466666666
+Southwark,930.0,1,1,Maisonette,1948,0.4481393818279924,concierge,850585.0,933412.05
+Hackney,1014.0,4,1,Flat,1990,0.1491039013068051,"ensuite, garden, gym, near_tube, new_build",1383584.0,1348223.32
+Waltham Forest,772.0,5,1,Maisonette,1970,1.06936101322792,"cellar, gym",677849.0,647607.5433333333
+Ealing,939.0,1,3,Terraced,1870,0.3752189852012129,"cellar, concierge, garage, garden",983976.0,897368.36
+Tower Hamlets,1030.0,2,2,Flat,1869,0.6088297352128431,"cellar, new_build",1138443.0,1144786.8133333332
+Brent,1381.0,4,1,Terraced,1969,0.2161101568753994,"cellar, concierge",2526409.0,2405781.66
+Croydon,621.0,4,1,Maisonette,1891,0.5091626858512069,"gym, lift, loft",120000.0,137929.57666666666
+Harrow,652.0,2,2,Semi-Detached,1906,0.6596382883112529,"cellar, gym, near_tube, new_build, river_view",226911.0,170556.87333333332
+Newham,1042.0,3,1,Terraced,1960,0.5145529407538901,parking,1239483.0,1304099.9133333333
+Wandsworth,690.0,2,3,Terraced,1950,1.4252541375948724,"ensuite, garden, new_build, river_view",463307.0,349756.13333333336
+Havering,1027.0,3,3,Flat,1856,1.969850433423051,"gym, lift, loft, park_view, parking",1041442.0,1154844.47
+Bexley,917.0,4,3,Terraced,1994,4.385852435926844,"cellar, loft, near_tube, parking, study",1081858.0,1012095.2733333333
+Westminster,872.0,4,3,Studio,1989,1.2114326112015783,"balcony, concierge, gym, new_build, river_view, study",1329860.0,1147522.8666666667
+Bexley,761.0,4,2,Semi-Detached,2018,2.4409735223313587,concierge,420347.0,673037.65
+Wandsworth,1140.0,3,3,Flat,1933,1.5460630834295055,"ensuite, gym, park_view",1804615.0,1646906.0666666667
+Brent,445.0,2,3,Flat,1880,2.017751831778463,"balcony, loft, near_tube, new_build, park_view",120000.0,120000.0
+Harrow,1221.0,5,2,Semi-Detached,1920,1.245892664925418,near_tube,1835986.0,1768903.2833333334
+Richmond upon Thames,621.0,4,2,Terraced,1977,0.8052907321777406,"ensuite, river_view",393136.0,247749.23
+Hackney,600.0,2,3,Terraced,1880,0.7030100904254432,"new_build, parking",120000.0,135247.06
+Lambeth,554.0,4,2,Flat,1913,0.3287273719872095,"cellar, ensuite, park_view, parking",120000.0,120000.0
+Merton,948.0,5,3,Terraced,1964,0.9833185769973516,"balcony, concierge, garden, lift, near_tube, new_build",1233507.0,1193629.2266666666
+Merton,619.0,3,2,Semi-Detached,1869,0.7536473015912141,"concierge, ensuite, gym, river_view",120000.0,137916.66666666666
+Tower Hamlets,840.0,2,2,Flat,1967,0.2069974812412486,"cellar, loft",818905.0,773984.1533333333
+Barking and Dagenham,888.0,4,2,Studio,1956,2.3582695493857577,concierge,672397.0,895754.3266666667
+Havering,960.0,5,1,Maisonette,2019,1.0659152268407168,concierge,1124493.0,1230451.1533333333
+Croydon,869.0,5,2,Maisonette,1931,1.314876827853502,"balcony, ensuite, gym, loft, parking, river_view",745406.0,912465.12
+Hounslow,958.0,4,2,Flat,1873,1.0119794023516504,"balcony, cellar, river_view",1066075.0,1054039.5466666666
+Waltham Forest,1128.0,5,1,Terraced,1939,2.251903400868605,"balcony, cellar, gym, park_view, study",1623189.0,1623550.7566666666
+Newham,790.0,2,1,Flat,1884,0.9177338852720788,"balcony, cellar, gym, park_view, parking",446975.0,478462.98333333334
+Tower Hamlets,972.0,5,2,Semi-Detached,1938,1.361397335814324,"balcony, loft",1300479.0,1210455.14
+Harrow,647.0,5,3,Flat,1975,1.8853133173961767,ensuite,283961.0,182155.36333333334
+Barking and Dagenham,714.0,2,2,Flat,2018,2.218054782365649,"balcony, concierge, loft, parking, river_view",293019.0,416662.00333333336
+Islington,714.0,3,1,Flat,1996,0.862244766833937,"balcony, ensuite, garden, gym, lift, new_build",655158.0,479769.89
+Hounslow,789.0,2,1,Flat,2001,0.8163862962274673,"balcony, cellar, river_view",440699.0,598852.8033333333
+Brent,1165.0,3,3,Semi-Detached,1938,1.2499959971613015,"cellar, garden, near_tube, parking",1681738.0,1751730.1566666667
+Lewisham,948.0,4,1,Flat,1957,0.6791206981748718,"balcony, ensuite, garage, gym, river_view",1032819.0,1176090.1166666667
+Camden,250.0,3,3,Flat,1942,2.0179064068342902,gym,120000.0,120159.07
+Haringey,1098.0,5,3,Maisonette,1952,0.6602529737848508,"concierge, gym",1690823.0,1579626.0733333332
+Westminster,614.0,4,3,Semi-Detached,1911,0.5971474233814155,near_tube,506441.0,283719.38
+Bexley,794.0,2,3,Terraced,1902,0.7266744030084549,"balcony, cellar, gym, park_view, study",462710.0,504690.1
+Islington,1061.0,4,1,Maisonette,1964,0.7332885531784565,"balcony, garden, gym, near_tube, parking, study",1661408.0,1494864.9533333334
+Hackney,1032.0,5,2,Maisonette,1880,1.8253859695824113,loft,1320841.0,1240048.1166666667
+Barnet,1075.0,1,2,Detached,1868,0.6725397540910519,"balcony, concierge, garden, near_tube, new_build, study",1360602.0,1349360.58
+Redbridge,1598.0,2,3,Studio,1995,1.425447153755966,"concierge, ensuite, lift",2953275.0,3014451.1
+Barnet,1000.0,3,2,Detached,1855,1.7050624869459403,"new_build, study",1085498.0,1078645.4566666668
+Southwark,779.0,5,2,Flat,1902,0.6755945918650396,"balcony, ensuite, garden, new_build, parking",654712.0,592650.84
+Richmond upon Thames,808.0,3,1,Flat,1968,2.6123592622462706,"cellar, gym",665195.0,702761.0366666666
+Bexley,1282.0,5,3,Terraced,1919,0.7970982555476726,"balcony, loft",2013961.0,2112772.28
+Tower Hamlets,1540.0,5,3,Terraced,1983,2.128783966147576,"ensuite, garage, loft, new_build, park_view, river_view",3148961.0,2913664.69
+Havering,1447.0,3,2,Studio,1982,1.227241229179042,"balcony, cellar, ensuite, garage, new_build",2511670.0,2649999.8466666667
+Sutton,1003.0,2,3,Detached,1855,0.2658176572792191,park_view,1211782.0,1045544.2266666667
+Lambeth,1352.0,5,1,Terraced,2002,1.4722214686117836,"balcony, ensuite",2471336.0,2312818.6666666665
+Hounslow,402.0,4,1,Flat,1952,0.5808561840327159,"lift, near_tube, new_build, study",120000.0,120000.0
+Kensington and Chelsea,775.0,1,3,Terraced,2004,1.4227375599257577,lift,1019158.0,920710.62
+Kensington and Chelsea,743.0,3,3,Terraced,2001,0.6365162351867873,"ensuite, lift, park_view, parking, study",975963.0,619657.7033333334
+Camden,1333.0,2,3,Flat,1955,1.409739972520342,"new_build, study",2333513.0,2254218.69
+Bromley,1181.0,4,1,Flat,1884,1.1292664228157483,"balcony, concierge, ensuite, loft, study",1727850.0,1750073.7933333332
+Barking and Dagenham,562.0,1,3,Flat,1874,0.5847569770500203,"garden, near_tube, park_view",120000.0,124038.49
+Bexley,786.0,5,1,Studio,1867,1.27860640786504,"ensuite, parking",427911.0,536077.0733333334
+Waltham Forest,945.0,4,3,Detached,1983,0.7666389377018615,garden,1005502.0,1162039.6066666667
+Kingston upon Thames,1089.0,2,2,Detached,1925,2.9646931453679524,"concierge, ensuite, garage, new_build, parking",1386110.0,1367432.3133333332
+Havering,481.0,1,2,Terraced,2009,0.7698090413289976,"ensuite, lift, loft, new_build, park_view",120000.0,120000.0
+Kensington and Chelsea,1030.0,3,3,Studio,1941,0.7145013226468838,"cellar, concierge, garage, park_view, river_view",1892010.0,1816521.8966666667
+Lewisham,794.0,3,1,Flat,1960,2.22635043544638,"ensuite, garage, loft, near_tube, parking",515371.0,556648.6733333333
+Barnet,952.0,5,3,Semi-Detached,1863,0.5305935274638388,"concierge, lift, park_view, parking, river_view",1092652.0,1081400.9066666667
+Barnet,820.0,1,3,Maisonette,1880,3.982378292625022,"lift, study",675140.0,600762.3233333334
+Newham,879.0,3,1,Detached,1871,0.1211944954405292,"lift, near_tube, parking",685557.0,817463.0066666667
+Croydon,809.0,3,2,Flat,1946,0.6463901693992519,"cellar, concierge, park_view",584636.0,630736.3
+Brent,1278.0,3,1,Maisonette,1973,1.1530507197709512,"balcony, cellar, garden, study",2086458.0,2129469.276666667
+Barking and Dagenham,718.0,1,1,Flat,1916,0.388606561617234,"loft, near_tube, new_build",120000.0,272179.3466666667
+Haringey,456.0,5,1,Flat,1907,0.1776064696695707,"concierge, garage, lift, loft, near_tube",120000.0,120087.08666666667
+Lambeth,1310.0,3,3,Flat,1872,0.6659860675014151,"balcony, ensuite, garage, garden, loft",2124307.0,2082887.7666666666
+Richmond upon Thames,786.0,4,1,Semi-Detached,1939,0.52234577571759,"garden, park_view",862338.0,643381.5666666667
+Redbridge,833.0,5,3,Flat,1952,0.4671059152139643,"concierge, lift",832914.0,811024.9566666667
+Hillingdon,945.0,3,3,Detached,1859,0.8432635423010372,"cellar, concierge, garden, new_build, park_view, parking",1019587.0,938876.9466666667
+Havering,989.0,2,2,Terraced,1975,0.8331636107369879,"balcony, ensuite, gym, near_tube, park_view, study",1119520.0,1211661.2933333332
+Camden,948.0,4,2,Flat,1938,0.3113424222341087,near_tube,1407064.0,1270747.82
+Richmond upon Thames,631.0,3,1,Terraced,2002,2.396944010494648,"balcony, river_view",254342.0,209177.36
+Bexley,854.0,2,2,Detached,1900,2.5637856733180446,"balcony, ensuite, garage, loft, near_tube",546140.0,719866.48
+Kingston upon Thames,924.0,2,2,Maisonette,1954,0.6412335049600013,"balcony, garage, gym, near_tube",1024901.0,1030945.54
+Hammersmith and Fulham,535.0,2,3,Detached,1945,2.095181508507254,ensuite,120000.0,131935.00333333333
+Croydon,873.0,5,1,Studio,1902,1.6102374544807667,"concierge, loft, near_tube",730611.0,770068.11
+Lambeth,1598.0,1,2,Flat,1876,1.5224298814297217,"ensuite, loft, near_tube, parking, river_view",2985488.0,2897793.2
+Barking and Dagenham,857.0,5,2,Flat,1944,0.4627434750049692,lift,728853.0,859341.8166666667
+Kingston upon Thames,881.0,1,3,Semi-Detached,1927,1.9015458034621304,"cellar, ensuite, park_view",864965.0,791692.7833333333
+Haringey,1050.0,1,2,Semi-Detached,1851,0.1530752365269621,"cellar, park_view, parking",1153511.0,1238262.4033333333
+Merton,853.0,3,2,Semi-Detached,2018,0.7052087183520468,"ensuite, new_build, park_view",854385.0,842801.9633333334
+City of London,1052.0,3,3,Terraced,1986,0.6176576897165411,"garage, gym",1732107.0,1475949.4933333334
+Redbridge,959.0,1,2,Flat,1869,1.479816873686722,"balcony, cellar, lift, new_build",892742.0,960567.1433333333
+Brent,1063.0,5,3,Flat,1911,0.4536696134419138,"gym, lift",1555851.0,1413792.01
+Westminster,925.0,2,1,Flat,1928,0.3082173894406529,"garage, parking, study",1208627.0,1310341.8233333332
+Waltham Forest,780.0,2,1,Maisonette,1884,1.0427591889174486,"new_build, parking",306228.0,428680.4533333333
+Hackney,956.0,2,2,Semi-Detached,1997,1.0520545609190293,"concierge, garage, lift, park_view, parking",1316037.0,1058641.3733333333
+Hounslow,951.0,3,3,Semi-Detached,1944,1.4707734246893245,"cellar, garage, garden, park_view",1031667.0,1047729.33
+Brent,578.0,3,1,Semi-Detached,2001,0.2807381635055279,"loft, new_build, river_view, study",120000.0,139788.87
+Haringey,549.0,5,1,Studio,1902,1.593962287349496,study,120000.0,122153.67
+Merton,542.0,5,1,Flat,1977,0.2329656985591582,"near_tube, park_view",120000.0,120514.91666666667
+Newham,388.0,2,3,Terraced,1973,1.2782856967652136,"garden, river_view",120000.0,120000.0
+Bexley,940.0,3,2,Flat,1981,1.2423377915244536,"loft, new_build",1003113.0,1062173.1133333333
+Sutton,250.0,4,2,Flat,2021,1.1269509434332945,"balcony, cellar, garden, lift, near_tube, new_build",120000.0,122680.68
+Hammersmith and Fulham,1140.0,5,2,Flat,1850,3.1354399568585847,"ensuite, near_tube, river_view",1717077.0,1569279.95
+Wandsworth,678.0,1,3,Semi-Detached,1892,0.8139769845507105,"balcony, ensuite, garden, park_view, parking",307385.0,213431.14
+Enfield,1105.0,4,2,Detached,1888,0.9082418032072492,"concierge, study",1488874.0,1520575.1233333333
+Westminster,820.0,1,1,Flat,1875,1.5347594429305966,"concierge, garage, garden, study",764290.0,600878.5166666667
+Bexley,1332.0,5,3,Flat,1935,0.2100490636279728,"balcony, garden, loft",2080909.0,2288245.93
+Barking and Dagenham,909.0,3,2,Maisonette,1994,0.546043647125625,"balcony, loft, park_view",881431.0,923593.2866666666
+Brent,1063.0,2,1,Terraced,1857,2.451464350423622,"garage, gym, lift",1102625.0,1312062.1633333333
+Greenwich,759.0,4,2,Terraced,1987,0.2325237027396448,"gym, lift, park_view, study",672495.0,663227.4933333333
+Lewisham,899.0,4,1,Terraced,2022,1.4589310426419213,"cellar, concierge, garage, garden, near_tube, park_view",1019575.0,961296.5166666667
+Tower Hamlets,958.0,4,2,Semi-Detached,1866,0.6086778609285081,"balcony, park_view",1045868.0,1024122.02
+Redbridge,930.0,3,3,Flat,1859,2.107261640047587,"cellar, ensuite",841174.0,854656.7166666667
+Lewisham,401.0,2,3,Terraced,2016,1.5564715490864696,park_view,120000.0,120481.54333333333
+Redbridge,869.0,2,2,Terraced,1912,1.2344336840830292,"cellar, concierge, garden, gym, near_tube",816939.0,729396.9833333333
+Hammersmith and Fulham,949.0,3,3,Flat,1971,1.3482050741998148,"cellar, garden, lift, near_tube, new_build, river_view",1298815.0,1156248.8533333333
+Kensington and Chelsea,921.0,1,1,Flat,2017,1.2528409115986154,lift,1448112.0,1319464.7866666666
+Wandsworth,728.0,5,1,Flat,1958,0.363083310685079,"cellar, concierge, ensuite, garage, near_tube, river_view",710530.0,555477.66
+Tower Hamlets,749.0,3,1,Terraced,1982,0.4761727391209437,"balcony, lift, near_tube, new_build, river_view, study",794838.0,474984.2133333333
+Islington,456.0,5,3,Flat,1936,0.4998748252975816,"cellar, gym, park_view, river_view",120000.0,120000.0
+Enfield,1108.0,3,3,Terraced,1889,0.1578550822776481,"concierge, loft, new_build, park_view, parking",1497698.0,1502351.2033333334
+Redbridge,1087.0,2,2,Flat,1916,1.7107934086288683,garden,1243786.0,1378973.6833333333
+Sutton,1152.0,4,2,Semi-Detached,1901,1.1564477050277409,parking,1689263.0,1648646.11
+Greenwich,325.0,4,1,Terraced,1885,0.7495486253758828,park_view,120000.0,120000.0
+Kingston upon Thames,986.0,2,1,Maisonette,1944,0.3361912486245369,"balcony, cellar, ensuite, gym, lift, park_view",1163019.0,1141985.2033333334
+Hillingdon,730.0,3,3,Flat,1850,0.312885522033695,lift,160077.0,393912.29
+Lambeth,1291.0,2,1,Flat,1863,1.422336540076136,"cellar, ensuite, new_build, river_view",2011769.0,1911466.6
+Havering,1040.0,2,3,Terraced,1975,1.9658056617750608,"cellar, concierge, garage, garden, gym",1210550.0,1357091.2733333334
+Tower Hamlets,480.0,4,2,Flat,1880,0.4892125604938222,gym,120000.0,120000.0
+Kingston upon Thames,1027.0,3,2,Semi-Detached,1881,0.8504752653388377,"garage, new_build, parking",1281406.0,1177281.2766666666
+Barking and Dagenham,393.0,5,2,Terraced,1914,0.7786017210910967,"lift, river_view",120000.0,120612.16666666667
+Croydon,876.0,1,2,Semi-Detached,1959,0.1638144485597227,lift,582244.0,834839.44
+Islington,493.0,1,1,Flat,1980,1.264899288498288,"balcony, ensuite, garage, lift",120000.0,120000.0
+Richmond upon Thames,1277.0,4,1,Flat,1856,1.8195943561618808,"balcony, loft, near_tube",2000545.0,1989628.89
+Waltham Forest,298.0,1,1,Terraced,1914,1.7248718231858229,"gym, loft, near_tube, new_build, park_view, river_view",120000.0,120000.0
+City of London,296.0,2,1,Terraced,2011,1.958982187735628,"balcony, lift, near_tube",120000.0,132995.13666666666
+Enfield,583.0,4,1,Flat,1883,0.8447832885717792,"balcony, garden, loft, new_build",120000.0,125000.73666666666
+Enfield,858.0,1,1,Semi-Detached,1899,1.025605046924613,"cellar, garden, gym, lift, loft, new_build",607771.0,612320.8866666667
+Richmond upon Thames,1416.0,5,1,Flat,1990,1.9644883026592408,"river_view, study",2697088.0,2421667.36
+Islington,1082.0,2,1,Terraced,1858,1.0007661891132085,"ensuite, garden, lift, new_build, river_view",1495620.0,1426566.3633333333
+Southwark,1565.0,1,3,Studio,1954,0.1512360714208902,"garden, loft, park_view",3056872.0,2986411.5733333332
+Southwark,728.0,1,3,Detached,2018,0.9689367285932564,"concierge, garage, new_build, parking, river_view",461964.0,404134.21
+Hounslow,809.0,1,2,Flat,1946,1.2794754876974663,lift,425057.0,532045.6633333333
+Harrow,1084.0,4,2,Terraced,1891,0.8263503516680899,"new_build, parking",1483405.0,1456170.53
+Croydon,751.0,5,1,Flat,1893,2.861389491173447,"balcony, ensuite, loft, parking",292717.0,425305.24333333335
+Haringey,910.0,1,3,Terraced,1909,0.6810052435025113,"concierge, garden, park_view",850112.0,823188.4133333333
+Wandsworth,404.0,4,1,Maisonette,2015,1.4579109602879947,"concierge, garage, garden, new_build, park_view, parking",120000.0,121383.79333333333
+Merton,1139.0,5,3,Flat,1873,0.6838054793931262,"concierge, garden, gym, park_view",1708714.0,1584987.3066666666
+Richmond upon Thames,625.0,4,2,Terraced,1937,2.8757663329700804,"concierge, garden, park_view, parking, river_view, study",236866.0,137216.06666666668
+Greenwich,656.0,1,1,Flat,1963,1.2533198441752056,"cellar, study",120000.0,228561.05666666667
+Wandsworth,903.0,2,2,Terraced,1856,1.0869493397735872,"balcony, garage, lift",905073.0,764811.8666666667
+Barking and Dagenham,1005.0,3,1,Flat,1866,0.4948402567127103,"ensuite, gym, loft, new_build, study",1003489.0,1082246.1033333333
+Waltham Forest,1237.0,1,2,Terraced,1971,0.9826660040961076,"cellar, garden, new_build, river_view",1953552.0,1951741.19
+City of London,1133.0,3,3,Studio,1926,0.9128558287322662,"ensuite, new_build, park_view, parking, river_view",1989430.0,1795575.7066666668
+Westminster,1337.0,1,3,Flat,1888,1.3706078424681132,"concierge, ensuite, loft, parking, study",2466328.0,2302379.053333333
+Bexley,548.0,5,3,Semi-Detached,1935,0.7763846723672939,near_tube,120000.0,120639.87666666666
+Barking and Dagenham,1131.0,1,2,Flat,2010,1.306141484994961,"gym, new_build",1476635.0,1523895.77
+Merton,816.0,2,1,Detached,1905,1.0635669590725942,"loft, new_build, river_view, study",483879.0,621126.75
+Hounslow,1074.0,2,2,Flat,2020,1.2507611413091075,"ensuite, garage, near_tube, parking",1226961.0,1471245.72
+Bromley,1379.0,5,1,Terraced,1874,2.6249902130646716,"lift, near_tube",2214174.0,2389771.4966666666
+Enfield,557.0,1,2,Terraced,1939,1.367444370613318,"balcony, lift, loft, parking, river_view",120000.0,120280.6
+Barking and Dagenham,752.0,5,3,Terraced,1859,1.893187929342938,"balcony, cellar, concierge, garage, new_build, study",352798.0,398041.37333333335
+Sutton,906.0,2,3,Terraced,2008,0.2575386644054094,lift,818781.0,937689.51
+Bexley,754.0,2,3,Semi-Detached,1911,0.6846182440909298,cellar,228064.0,401815.24666666664
+Bromley,610.0,4,1,Maisonette,1905,0.3787257998158569,"cellar, concierge, garden, parking",120000.0,128421.11333333333
+Islington,788.0,5,1,Flat,1923,1.6706004491590882,"balcony, lift, near_tube, park_view",799144.0,632473.7
+Camden,536.0,2,3,Maisonette,1928,1.24864864630457,"concierge, garden, gym",120000.0,132472.27333333335
+Merton,1018.0,2,3,Flat,2006,0.6838142856554398,"cellar, ensuite, loft, near_tube, parking",1273639.0,1277851.4433333334
+Brent,981.0,4,3,Flat,1851,2.8594270831672213,"cellar, garden",1029963.0,1049220.4833333334
+Bromley,826.0,3,1,Flat,1951,0.963230517955688,ensuite,598190.0,706091.3566666667
+Havering,813.0,2,2,Flat,1928,0.2569809627248113,"loft, new_build",598769.0,601744.1733333333
+Lewisham,724.0,4,2,Flat,1850,3.8666149232524,"cellar, garage, near_tube, park_view",131306.0,353157.7133333333
+Greenwich,1466.0,2,3,Flat,1867,3.841538081652568,"cellar, garden, near_tube",2468302.0,2537330.96
+Harrow,1279.0,5,2,Detached,1931,1.0410125389626403,"cellar, concierge, loft, park_view, river_view",2034030.0,2088589.7366666666
+Enfield,922.0,5,1,Flat,1902,0.6299682511760846,"balcony, lift, loft, parking",1000421.0,1016712.9733333334
+Lambeth,250.0,4,3,Flat,1917,0.2055757281428917,"garden, near_tube, parking",120000.0,120043.54333333333
+Hackney,597.0,1,1,Terraced,2011,0.7163867603252718,"balcony, concierge, park_view, parking, river_view",120000.0,143407.63666666666
+Hillingdon,486.0,2,2,Terraced,2018,1.003920645568288,"ensuite, garage, near_tube, parking, study",120000.0,124221.45666666667
+Lewisham,1086.0,4,1,Flat,1993,0.4088468174706051,"loft, park_view",1429568.0,1594766.5366666666
+Harrow,688.0,1,3,Semi-Detached,1970,0.5389369909038947,"ensuite, garden, lift, loft, study",190932.0,377411.33666666667
+Enfield,823.0,5,3,Flat,1881,1.2366044760215078,new_build,559870.0,668608.0966666667
+Haringey,251.0,2,2,Terraced,1897,1.5115713343603705,"ensuite, new_build, park_view",120000.0,120000.0
+Camden,526.0,4,1,Flat,1859,1.4540860884063669,"balcony, garden, near_tube",120000.0,135799.52
+Bromley,750.0,3,3,Detached,1889,0.2189859980488973,garden,423740.0,423711.94333333336
+Sutton,630.0,5,3,Detached,1990,1.984339328763613,"garden, lift, near_tube, study",223332.0,235558.52333333335
+Hackney,824.0,1,2,Flat,1929,2.5166042756986213,lift,673706.0,578889.1466666666
+Bromley,884.0,5,3,Flat,1994,1.4157317725737124,park_view,981903.0,984321.3666666667
+Kingston upon Thames,832.0,1,3,Flat,1861,1.859572191043548,"concierge, ensuite, loft, near_tube, study",517315.0,608708.2766666666
+Hammersmith and Fulham,1234.0,4,3,Flat,1935,0.6970458069533999,"garage, near_tube",2150673.0,2029185.71
+Hackney,1281.0,2,3,Semi-Detached,1850,1.1724937454987572,new_build,2006871.0,1895629.38
+Sutton,1239.0,1,3,Semi-Detached,1919,0.2366909532753089,"lift, loft",1808111.0,1987345.2366666666
+Kensington and Chelsea,459.0,1,3,Flat,1961,0.6925582726632603,"concierge, garage, new_build, park_view, parking",120000.0,135980.39333333334
+Havering,614.0,4,2,Flat,1954,1.7140777486064485,"balcony, garage, lift, near_tube, study",120000.0,130301.02
+Hounslow,961.0,1,2,Semi-Detached,1888,1.6938878570397022,"balcony, cellar, concierge, new_build, parking",875696.0,978654.4666666667
+Islington,852.0,5,3,Semi-Detached,1936,0.4974605613744757,"balcony, cellar, concierge, lift, loft, parking",1045786.0,856700.2066666667
+Kingston upon Thames,1221.0,4,1,Terraced,1957,0.7963187256006169,"balcony, garage, loft, near_tube, new_build, park_view",2025387.0,1811983.36
+Hammersmith and Fulham,837.0,5,3,Flat,1979,1.2250017364963948,"ensuite, new_build",1163502.0,890445.3266666667
+Barking and Dagenham,1106.0,3,1,Flat,2011,1.8247222490190569,ensuite,1408527.0,1542158.12
+Bexley,755.0,3,1,Flat,1958,0.7081469957635323,"garden, new_build, parking, study",361856.0,458389.57666666666
+Sutton,1232.0,4,1,Semi-Detached,1902,1.692680210120409,"balcony, cellar, ensuite, garage, lift, parking",1855178.0,1841025.9666666666
+Bexley,910.0,3,2,Terraced,1872,2.4926080270709687,"cellar, concierge, loft, study",723912.0,815296.73
+Westminster,922.0,1,2,Flat,1882,0.3102191907370108,study,1156476.0,1114528.4566666668
+Enfield,545.0,3,2,Flat,1982,0.1603402747225409,gym,120000.0,120000.0
+Westminster,803.0,2,3,Terraced,1901,1.9902035461013503,"balcony, garden, lift, loft, river_view, study",942559.0,745189.32
+Sutton,1196.0,1,2,Flat,2022,1.0789283699030916,"concierge, ensuite, near_tube, new_build, river_view",1647902.0,1821703.7433333334
+Hackney,683.0,5,2,Flat,1906,0.6382931109900124,"ensuite, garage, garden, loft, near_tube, river_view",371969.0,279860.8466666667
+Merton,553.0,2,1,Flat,1955,1.7282689254028334,"garage, near_tube, study",120000.0,122360.45666666667
+Westminster,1086.0,5,2,Flat,1891,2.3000791889220147,"gym, lift, loft, river_view",1855043.0,1569784.7233333334
+Barking and Dagenham,835.0,5,1,Semi-Detached,1961,1.297768608821707,garden,564207.0,773175.02
+Enfield,822.0,3,1,Studio,1998,1.1988052651264651,"cellar, concierge, garden, loft, new_build, river_view",690652.0,717298.25
+Bromley,877.0,4,3,Studio,1868,2.6282211425312516,"cellar, concierge, ensuite, garden, gym, lift",661354.0,809967.4766666667
+Barking and Dagenham,754.0,4,3,Terraced,1951,0.2653144910420132,"garage, garden, new_build, park_view, parking, study",415376.0,534063.26
+Lambeth,835.0,5,1,Flat,1932,2.836440041693853,"ensuite, gym, loft, new_build, park_view, study",821488.0,759102.2833333333
+Hounslow,884.0,2,2,Semi-Detached,1971,1.3500732474341075,"balcony, gym, lift, new_build",754072.0,866620.2266666667
+Harrow,1266.0,2,2,Flat,1941,4.195344576722797,"concierge, loft, park_view, river_view",1858595.0,1952095.9366666668
+Camden,1225.0,3,1,Studio,1914,1.4105288648623708,"ensuite, garage, lift, parking, river_view, study",1986194.0,1807631.53
+Brent,534.0,1,2,Semi-Detached,1980,0.8743987278555667,"balcony, lift",120000.0,120000.0
+Waltham Forest,1026.0,3,2,Flat,1982,0.4920396660536252,"cellar, garage, study",1294205.0,1271261.7433333334
+Barking and Dagenham,587.0,2,1,Terraced,1974,0.8050015284898536,"balcony, cellar, garage, loft, new_build",120000.0,135103.15333333332
+Newham,306.0,5,3,Flat,1850,1.7517479922969248,park_view,120000.0,120000.0
+Croydon,782.0,3,2,Maisonette,1898,1.6765667895576657,"ensuite, lift",295477.0,481434.45666666667
+Bromley,894.0,1,2,Detached,2004,0.5636038580637927,"gym, new_build, park_view, parking, river_view",679877.0,879589.53
+Islington,790.0,2,3,Maisonette,1850,1.5787692594046991,"gym, lift, park_view, parking",478648.0,467041.65
+Brent,1014.0,2,3,Flat,1871,3.704767503854965,"cellar, new_build",1285589.0,1109684.4166666667
+Richmond upon Thames,930.0,5,3,Semi-Detached,2000,0.2644612176806719,"garage, study",1351095.0,1287543.5666666667
+Brent,728.0,2,1,Semi-Detached,1897,0.7173640366311417,"balcony, garage, near_tube, study",353827.0,299641.87666666665
+Harrow,307.0,5,1,Maisonette,1998,1.849690172731619,"concierge, garage, new_build, parking",120000.0,120000.0
+Camden,850.0,1,2,Flat,1948,3.1847094629833275,"gym, parking, river_view",835112.0,778357.4266666666
+Newham,670.0,4,1,Detached,1919,0.452138114928095,parking,120000.0,277517.38666666666
+Lambeth,687.0,3,2,Maisonette,1896,1.635764535977736,"ensuite, garden",357173.0,225290.11
+Lambeth,809.0,4,3,Flat,1852,2.518069073065086,near_tube,510649.0,549110.93
+Southwark,886.0,5,3,Flat,1922,2.623489420786574,"loft, new_build, river_view",1045950.0,968979.21
+Westminster,905.0,5,3,Flat,2018,0.5850303782673605,"concierge, river_view",1656912.0,1286506.7666666666
+Waltham Forest,1306.0,1,1,Flat,1903,0.3469013838411102,"concierge, ensuite, garage, gym, park_view",1891076.0,2040219.8066666666
+Waltham Forest,563.0,2,1,Studio,1883,0.05,"lift, new_build",120000.0,137234.70666666667
+Bexley,1041.0,4,2,Flat,1978,2.4892022907098164,"balcony, garage",1390655.0,1350828.6966666668
+Southwark,1132.0,1,2,Terraced,1884,0.8514780992802757,cellar,1482737.0,1548994.8266666667
+Waltham Forest,935.0,2,2,Flat,1884,0.9450155176376268,garden,895377.0,805999.9
+Lambeth,890.0,3,1,Maisonette,1873,0.7986095285818409,"garage, loft, park_view",784650.0,789426.5166666667
+Greenwich,406.0,4,2,Semi-Detached,1930,0.750467587598693,"concierge, garden, lift, loft, parking",120000.0,120000.0
+Barnet,352.0,4,1,Flat,1898,0.6910130160511168,river_view,120000.0,120000.0
+Islington,587.0,2,1,Semi-Detached,1962,1.0263570825202593,concierge,120000.0,137391.87666666668
+Hackney,656.0,5,3,Terraced,1991,0.820182924316026,gym,366157.0,313647.7166666667
+Redbridge,587.0,4,3,Maisonette,1933,0.3577544770885421,"cellar, new_build, park_view, river_view, study",131682.0,122283.92333333334
+Bexley,1099.0,3,3,Flat,1889,0.919620061525356,"ensuite, lift, new_build",1420635.0,1424489.9466666668
+Hounslow,1117.0,4,1,Semi-Detached,1854,2.1542940763006326,"garage, park_view",1352751.0,1467036.43
+Ealing,826.0,3,1,Flat,1949,0.4172270963633137,"ensuite, new_build, park_view, parking, study",745270.0,725092.4133333333
+Redbridge,1066.0,1,3,Flat,2002,3.2398991663188004,"cellar, lift, loft, new_build, park_view, study",1367958.0,1431982.9966666666
+Kingston upon Thames,595.0,5,3,Terraced,1996,0.3583671652669427,"concierge, ensuite, gym, near_tube, parking, study",227830.0,185590.12
+Islington,1312.0,4,2,Terraced,1992,0.569469358407197,"garage, gym, new_build",2473069.0,2160265.303333333
+Sutton,687.0,1,1,Flat,1924,0.5543045053155616,"concierge, gym, lift, loft, river_view",120000.0,240219.40333333332
+Redbridge,275.0,4,1,Flat,1934,1.5877888227833294,"balcony, lift, near_tube, river_view",120000.0,120000.0
+Redbridge,611.0,5,1,Detached,1907,0.4243793186356615,garden,120000.0,127600.86
+Barnet,903.0,5,2,Semi-Detached,1971,0.5397165131611831,"garage, garden, loft, near_tube, new_build",1138354.0,1023941.48
+Lewisham,794.0,4,3,Flat,1949,0.4904049376718741,cellar,779280.0,620469.5833333334
+Havering,620.0,4,3,Maisonette,1959,2.0382853097646483,"balcony, ensuite, lift, near_tube, park_view",120000.0,202357.81666666668
+Sutton,1063.0,5,1,Semi-Detached,1976,2.0600008900073736,gym,1326071.0,1432939.7633333334
+Merton,1519.0,5,1,Semi-Detached,1910,1.8662692843558315,river_view,2845421.0,2812051.5166666666
+Greenwich,705.0,1,2,Detached,1961,4.209142187414419,study,268992.0,318472.1533333333
+Merton,1218.0,2,3,Semi-Detached,1985,0.7208599233768535,"loft, park_view, parking",1971257.0,1952452.3733333333
+Croydon,570.0,4,1,Semi-Detached,1889,1.4581941593022238,"ensuite, new_build, parking",120000.0,140316.32
+Bromley,1356.0,4,1,Terraced,1980,0.8604929679063421,"loft, new_build, parking, river_view",2269764.0,2341474.07
+Islington,675.0,4,2,Flat,2014,1.12183990180956,river_view,490429.0,394575.9633333333
+Bromley,1439.0,2,2,Flat,2020,0.5171100870877735,"concierge, park_view",2474412.0,2552328.3966666665
+Hounslow,821.0,3,2,Terraced,1944,1.0990880325405148,"balcony, garden, near_tube, study",606185.0,734384.4433333334
+Newham,1316.0,3,1,Flat,1856,0.8849753662074332,park_view,1759827.0,1978098.8266666667
+Havering,817.0,4,2,Terraced,2005,0.0939692739441962,"cellar, gym, new_build",526277.0,685114.03
+Lambeth,412.0,4,2,Semi-Detached,1995,1.2913695238752645,"cellar, ensuite, gym, park_view, parking, river_view",120000.0,120000.0
+Brent,567.0,2,1,Detached,1942,0.765708894043073,garage,120000.0,134693.36333333334
+Tower Hamlets,1156.0,2,1,Terraced,1899,0.1637580076627087,"garage, gym, park_view",1710534.0,1704084.7366666666
+Hillingdon,885.0,2,1,Flat,1906,0.9102255773642296,"balcony, cellar, gym, new_build, park_view, river_view",737751.0,748968.13
+Wandsworth,337.0,1,3,Flat,1910,0.4265037019473994,"concierge, ensuite, gym",120000.0,120822.35333333333
+Islington,352.0,1,1,Terraced,2016,2.0610607627608775,parking,120000.0,120859.25333333333
+Lewisham,766.0,4,1,Maisonette,1947,0.1043057642739379,"loft, park_view",511711.0,585081.8533333334
+Barking and Dagenham,296.0,1,1,Flat,2017,1.5825801259659815,loft,120000.0,120175.10666666667
+Southwark,796.0,4,2,Maisonette,1976,0.8932617070767312,"cellar, parking",684859.0,726376.2433333333
+Barking and Dagenham,1279.0,1,2,Flat,1912,0.4203035891232374,"concierge, park_view",1759493.0,2028831.0466666666
+Barking and Dagenham,778.0,3,2,Flat,2015,0.5180197275125656,"lift, parking",459769.0,617721.28
+Bexley,522.0,3,2,Maisonette,1965,1.1534453952208903,"concierge, garden, lift, new_build, parking, study",120000.0,120000.0
+Hounslow,758.0,2,1,Terraced,1889,0.934520712614135,"balcony, cellar, ensuite, garage, park_view, parking",289524.0,428604.42
+Southwark,921.0,1,1,Flat,1886,0.507162096362312,"balcony, garage, gym, near_tube, new_build, parking",924354.0,796179.89
+Hackney,1105.0,4,2,Maisonette,1949,1.1545724876461565,study,1479674.0,1542272.8866666667
+Redbridge,939.0,1,3,Flat,1996,1.109149583783522,"lift, loft",939790.0,1028339.4466666667
+Greenwich,1034.0,5,3,Terraced,2003,0.2286542061432347,"ensuite, garage, gym, park_view, river_view",1497727.0,1387562.79
+Barking and Dagenham,1246.0,4,1,Semi-Detached,1921,2.329459451101356,"garden, near_tube, park_view",1757264.0,1924310.6633333333
+Kensington and Chelsea,770.0,3,1,Flat,1916,1.4179595512678544,"ensuite, park_view, river_view",839486.0,912528.67
+Enfield,737.0,5,1,Semi-Detached,1963,1.2121540461829547,"garage, near_tube",432371.0,489994.26666666666
+Hounslow,1053.0,4,3,Semi-Detached,1955,0.4419438657307187,"gym, lift, near_tube, study",1500176.0,1375907.7766666666
+Westminster,682.0,3,2,Maisonette,1989,0.7835196987090729,"lift, loft, new_build",722097.0,430075.2266666667
+Greenwich,897.0,1,1,Flat,2008,2.487575340932293,"concierge, near_tube, parking, study",1005007.0,879909.0133333333
+Wandsworth,996.0,4,3,Studio,1969,1.3494354880775026,"balcony, cellar, ensuite, garden, gym, parking",1573118.0,1318937.61
+City of London,853.0,4,3,Terraced,2005,1.0652645075606888,"concierge, garden, loft, park_view, parking",1284825.0,1151685.34
+City of London,871.0,1,3,Flat,1947,0.9720242005367166,garage,1086267.0,1157239.44
+Richmond upon Thames,506.0,5,3,Semi-Detached,1974,0.783585013553298,"cellar, ensuite, lift, new_build, study",120000.0,120470.49666666667
+Hillingdon,629.0,5,3,Terraced,1907,1.5276753817625668,"balcony, concierge, garden, lift, near_tube",120000.0,164197.65666666668
+Lewisham,465.0,5,1,Detached,1911,1.9045674796023,"cellar, garage, near_tube, study",120000.0,120000.0
+Greenwich,651.0,3,2,Terraced,1850,1.398454530950948,"ensuite, garage, lift, new_build, park_view, study",120000.0,173113.25666666665
+Islington,772.0,3,2,Maisonette,1955,2.212502343960499,"balcony, lift, new_build, park_view, parking, river_view",814637.0,497434.91333333333
+Havering,737.0,4,1,Terraced,1885,0.7886709646803743,"garage, parking",309989.0,395915.07
+Bromley,851.0,5,1,Semi-Detached,1870,0.458732292759393,"gym, new_build, parking",700886.0,734050.1266666667
+Kensington and Chelsea,888.0,3,2,Flat,1998,1.628269074183109,"garage, gym, lift",1358219.0,1226753.0166666666
+Bexley,1112.0,2,1,Detached,2016,0.7946863190890651,"garage, lift, loft, park_view",1452369.0,1493288.2733333334
+Barnet,918.0,1,2,Terraced,1948,2.530173352367859,"concierge, garage, gym, park_view",943829.0,924934.8066666666
+Lambeth,707.0,4,2,Flat,1912,1.0582564637928138,"cellar, garage, near_tube, study",471395.0,306866.7233333333
+Hammersmith and Fulham,601.0,3,2,Flat,1910,1.4228657237990907,"concierge, lift, parking, river_view",158308.0,165388.80333333334
+Hounslow,543.0,3,2,Flat,1852,1.6361454243397502,"cellar, garage",120000.0,120841.8
+City of London,1018.0,5,1,Maisonette,2016,0.9211709637601886,"park_view, study",1753141.0,1483447.57
+Brent,645.0,3,3,Maisonette,1913,0.9112416304050728,"balcony, lift, near_tube, study",136358.0,164572.44
+Greenwich,540.0,4,1,Flat,1857,1.5666150117074336,"garage, garden, lift, parking, study",120000.0,120000.0
+Waltham Forest,625.0,1,3,Studio,1860,3.3071817925398,"ensuite, lift, loft, parking",120000.0,129327.83333333333
+Barking and Dagenham,639.0,2,2,Semi-Detached,1885,0.8826344122326987,"balcony, cellar, garden, gym, lift, park_view",120000.0,151534.47333333333
+Brent,768.0,3,2,Terraced,1988,0.1404013406644166,"balcony, lift, park_view",526456.0,584581.62
+Newham,1032.0,1,3,Flat,1995,2.9638029343719987,"concierge, garden, parking",1177892.0,1366141.9766666666
+Kensington and Chelsea,862.0,2,1,Terraced,1988,0.4823941419696949,concierge,1303552.0,1167745.63
+Islington,296.0,2,2,Terraced,1950,1.7091958565145886,"cellar, concierge, gym, loft, near_tube, river_view",120000.0,120000.0
+Enfield,632.0,3,2,Terraced,1921,1.681913250812532,"concierge, gym, lift, loft, park_view, river_view",120000.0,140778.13
+Croydon,667.0,4,3,Maisonette,1971,0.8006133039655791,new_build,271406.0,389807.16333333333
+Bexley,947.0,4,1,Terraced,1857,0.6756630267883877,"garage, new_build, parking",766465.0,975809.2833333333
+Tower Hamlets,589.0,2,1,Detached,2008,1.6165763081468685,"balcony, garden, lift, river_view",120000.0,172325.41333333333
+Wandsworth,789.0,1,1,Terraced,1858,0.2402326041020221,"concierge, ensuite, garden, gym, new_build, study",501764.0,447713.76666666666
+Lambeth,830.0,4,3,Flat,1991,0.8386111772767887,"garden, parking",762829.0,766880.5166666667
+Haringey,712.0,4,3,Semi-Detached,1919,1.0162254034663958,"cellar, gym, loft, park_view",428724.0,392867.45666666667
+Bromley,471.0,5,2,Maisonette,1889,1.366591482775181,"cellar, new_build, river_view",120000.0,120000.0
+Newham,838.0,4,3,Flat,1936,0.737325839993331,"balcony, concierge, garage, near_tube",717054.0,780213.2
+Sutton,728.0,4,1,Flat,1962,0.1919315756375943,"cellar, loft",360282.0,512493.61333333334
+Wandsworth,601.0,3,2,Detached,1989,1.3248265951632985,garage,145906.0,157376.46333333335
+Barking and Dagenham,294.0,4,1,Flat,1897,1.188056832315375,"balcony, cellar, ensuite, garage, garden, parking",120000.0,120000.0
+City of London,642.0,3,1,Flat,1919,0.3204672463413983,"concierge, garden, lift, loft, park_view",412832.0,473414.25666666665
+Barnet,866.0,1,1,Flat,1870,1.04017846707521,"balcony, cellar, ensuite, park_view",650447.0,670619.58
+Barnet,642.0,1,3,Semi-Detached,1940,0.9455465894312174,"new_build, parking",120000.0,183019.37666666668
+Havering,803.0,1,2,Semi-Detached,1950,1.160451948503043,"concierge, ensuite, gym, park_view, river_view",465956.0,554192.6366666667
+Havering,338.0,5,2,Flat,1999,3.8714229188698224,"concierge, garden, gym, near_tube, parking, study",120000.0,120000.0
+Lambeth,485.0,2,3,Flat,1937,1.5935141875276122,"gym, river_view",120000.0,120000.0
+Hammersmith and Fulham,925.0,4,3,Flat,1901,0.1567288483033237,"cellar, concierge, lift, near_tube, new_build, parking",1272713.0,1008532.4466666667
+Haringey,293.0,1,3,Terraced,1967,1.9382384364597125,"concierge, garage",120000.0,120000.0
+Newham,429.0,5,3,Terraced,1974,1.5516514333265472,"lift, near_tube",120000.0,120612.16666666667
+Westminster,619.0,2,1,Flat,1870,0.5598753122846328,"balcony, concierge, ensuite, garden, loft, study",451928.0,384834.32666666666
+Harrow,1062.0,4,3,Terraced,1925,1.4926461020127633,"cellar, ensuite, river_view, study",1424513.0,1378992.82
+Brent,854.0,2,1,Flat,1955,1.0599581428680682,"garage, loft, near_tube, park_view",707616.0,793116.5633333334
+Bromley,913.0,4,1,Flat,1967,1.4495155724445767,"gym, study",951371.0,1043155.98
+Tower Hamlets,675.0,5,2,Semi-Detached,1871,2.5989761094365633,"cellar, ensuite, garage, garden, loft, river_view",312323.0,256097.91666666666
+Waltham Forest,954.0,5,2,Terraced,1963,0.8819370843879203,"concierge, loft, park_view",1110593.0,1179273.3933333333
+Southwark,821.0,3,1,Flat,1892,0.6026437385213226,"ensuite, garden, parking",609675.0,703086.5666666667
+Haringey,1127.0,4,1,Semi-Detached,1944,1.062329717975531,study,1502664.0,1668156.9433333334
+Kingston upon Thames,622.0,4,1,Semi-Detached,1959,0.9248861212704064,"garage, loft, parking",249710.0,209219.01333333334
+Croydon,796.0,5,3,Detached,1924,1.1830939110092271,"ensuite, garden, near_tube, new_build, study",598303.0,618868.1466666666
+Greenwich,773.0,2,1,Terraced,1994,1.119824734924552,"cellar, garage, gym, parking, river_view",512229.0,510938.2133333333
+Hounslow,1017.0,5,1,Semi-Detached,2004,0.1976706561564745,"garden, gym",1247466.0,1331896.9466666668
+Lambeth,422.0,1,1,Studio,1887,0.107731592675835,"balcony, lift, park_view, river_view, study",120000.0,123762.06666666667
+Havering,520.0,1,1,Semi-Detached,1954,1.3343752087022862,"balcony, ensuite, parking, study",120000.0,120000.0
+Waltham Forest,751.0,1,3,Terraced,2017,0.3973326338223524,"balcony, cellar, gym, loft, parking, study",369251.0,449127.7366666667
+Lewisham,657.0,5,3,Semi-Detached,1996,0.5353242229665622,"balcony, concierge, garage, near_tube, new_build",274191.0,340159.5833333333
+Lewisham,851.0,5,3,Flat,1866,0.3468388589079493,"gym, study",730447.0,791849.11
+Hammersmith and Fulham,1155.0,4,3,Flat,1983,1.058650128830257,balcony,1834047.0,1832434.1366666667
+Barnet,376.0,5,3,Flat,1891,1.7918124618842288,"garden, near_tube, park_view, parking, river_view",120000.0,120000.0
+Wandsworth,1174.0,3,1,Semi-Detached,1924,0.2634527687112039,"cellar, lift, loft, new_build",1913482.0,1733544.82
+Barking and Dagenham,1070.0,2,2,Studio,1922,0.419123333011892,"ensuite, garage, river_view",1228635.0,1316985.2566666666
+Islington,730.0,3,2,Flat,1958,1.476702607141503,"balcony, ensuite, garage, garden, gym, parking",495273.0,514608.6066666667
+Brent,724.0,3,1,Detached,2016,0.3764025304941482,"river_view, study",601268.0,432840.74666666664
+Tower Hamlets,1135.0,3,2,Terraced,1942,1.0127913347540207,"parking, river_view, study",1723328.0,1654172.7033333334
+Southwark,1162.0,1,2,Flat,1884,2.471228656326883,"balcony, concierge, study",1675526.0,1631264.0466666666
+Wandsworth,1049.0,5,2,Studio,2009,1.981195185973798,"balcony, ensuite, garage, gym, river_view",1694627.0,1449801.28
+Newham,792.0,3,3,Terraced,1911,2.315002780074137,"balcony, garage, garden, loft, near_tube",523272.0,549617.2433333333
+Croydon,556.0,5,1,Semi-Detached,1951,0.879660955377422,"cellar, concierge, ensuite, lift, parking, river_view",120000.0,120000.0
+Barking and Dagenham,1023.0,2,2,Maisonette,1855,0.6276886787316002,loft,818233.0,1074838.9666666666
+Bexley,618.0,5,3,Semi-Detached,2015,0.4802937414918157,"concierge, ensuite, park_view, parking",243852.0,228492.42
+Ealing,1128.0,4,3,Studio,1868,0.5286147927026397,"gym, loft",1389629.0,1563864.36
+Kensington and Chelsea,864.0,3,3,Flat,1968,3.414674259291627,"lift, study",1417924.0,1195668.3366666667
+Greenwich,517.0,4,3,Flat,1987,0.7127983460602259,"garden, study",120000.0,120040.71666666666
+Bexley,723.0,4,2,Semi-Detached,1865,0.6202651193708725,"park_view, river_view, study",146073.0,322706.04
+Camden,1180.0,3,2,Flat,1944,2.0901972432422484,"ensuite, new_build",1925098.0,1726973.8733333333
+Hackney,849.0,4,2,Semi-Detached,1853,0.5171970524426731,"cellar, new_build, park_view",634427.0,737260.0633333334
+Barnet,808.0,1,3,Terraced,1906,0.7208091277546341,"garden, gym, lift, loft",567937.0,565713.9066666666
+Southwark,871.0,5,2,Maisonette,1996,0.9302492628802046,study,860750.0,914366.39
+Kensington and Chelsea,749.0,4,3,Flat,1991,1.1426963086167423,"balcony, concierge, gym, lift, new_build, river_view",963945.0,632451.7633333333
+Westminster,1197.0,4,1,Maisonette,1991,1.4496041858923607,"ensuite, loft, parking",2056946.0,1919958.8366666667
+Wandsworth,426.0,2,3,Flat,2006,0.1453153351356685,"cellar, loft, near_tube, study",120000.0,123441.06333333334
+Barnet,457.0,2,3,Studio,1914,1.185245971358655,park_view,120000.0,120000.0
+Waltham Forest,1071.0,4,1,Detached,1961,2.7153799381852908,"balcony, cellar, ensuite, lift, near_tube, parking",1519387.0,1525645.3066666666
+Greenwich,449.0,2,1,Maisonette,1961,1.1541480619878828,"balcony, garden, study",120000.0,120000.0
+Croydon,1112.0,5,2,Detached,2017,0.5121807683592159,"ensuite, garage, lift, loft, new_build",1843189.0,1669763.3966666667
+Westminster,834.0,1,3,Flat,1921,1.868056459326272,"ensuite, study",879151.0,785342.59
+Tower Hamlets,933.0,4,3,Flat,1883,2.698284331922293,"concierge, loft, park_view, river_view, study",987924.0,983580.6666666666
+Westminster,1169.0,2,2,Semi-Detached,1998,1.1827562826518858,"concierge, gym, lift, near_tube",2086266.0,1826723.6066666667
+Bexley,872.0,1,1,Semi-Detached,2014,0.7287022774893227,new_build,590738.0,727269.1733333333
+Hammersmith and Fulham,598.0,5,2,Detached,1968,1.3513487317011157,"balcony, cellar, garage, park_view",392484.0,240641.63
+Hillingdon,1568.0,2,1,Flat,1878,1.4003706410416945,near_tube,2603773.0,2809451.94
+Greenwich,957.0,1,1,Maisonette,2006,1.3172163979057627,"lift, new_build, parking",1065120.0,1041784.73
+Barnet,472.0,5,1,Detached,1935,1.368423352160697,"cellar, park_view",120000.0,120000.0
+Harrow,1119.0,3,2,Maisonette,1931,1.0847619683349998,"garage, gym, loft, study",1523632.0,1570209.91
+Westminster,1033.0,5,1,Detached,2006,1.1877591746104654,"gym, study",1731306.0,1645427.7666666666
+Greenwich,997.0,2,2,Semi-Detached,2011,0.5577426913457244,"balcony, lift, loft, near_tube",1330463.0,1215055.5166666666
+Barnet,909.0,5,2,Flat,1916,3.5961045314532316,"balcony, concierge, lift, loft",819640.0,1000184.37
+Hounslow,1191.0,1,1,Semi-Detached,1889,1.4429539861234346,"balcony, cellar, garage, gym, lift, park_view",1738496.0,1627373.72
+Barnet,782.0,3,3,Flat,1941,1.0209250456195424,"loft, parking",446559.0,500876.8333333333
+Hounslow,1040.0,5,2,Flat,1875,0.1057786974587121,near_tube,1260254.0,1217539.4566666668
+Greenwich,802.0,2,2,Semi-Detached,1856,0.4787545867285284,"garage, new_build, park_view, study",559877.0,491945.94333333336
+Kensington and Chelsea,1532.0,3,1,Semi-Detached,1949,0.7296309046527664,"concierge, park_view",3423900.0,2951461.5733333332
+Hackney,629.0,3,3,Flat,1874,0.091286970456138,"garden, study",120000.0,166838.95333333334
+City of London,549.0,2,1,Terraced,1965,2.4636433241832316,study,120000.0,161392.53
+Wandsworth,799.0,1,1,Maisonette,1861,0.9380557613445688,"balcony, concierge, garage, gym, loft, study",539544.0,467329.2166666667
+Barnet,250.0,4,2,Flat,1965,1.6630395041336088,"garage, lift, new_build, parking",120000.0,120000.0
+Sutton,936.0,4,1,Semi-Detached,1997,0.1375721846037433,"parking, river_view",957511.0,1106968.8033333332
+Enfield,1142.0,4,2,Semi-Detached,2004,0.3364998455920027,concierge,1747086.0,1742670.87
+Hammersmith and Fulham,992.0,5,1,Semi-Detached,1914,0.2061071503533034,"gym, lift, loft, river_view",1485644.0,1278759.4933333334
+Richmond upon Thames,446.0,5,2,Terraced,2014,0.05,ensuite,120000.0,129313.76333333334
+Islington,1261.0,1,2,Flat,1952,1.211679446507642,"garage, parking",2125808.0,2013148.84
+Richmond upon Thames,1173.0,4,2,Maisonette,1878,0.3658691480680662,"lift, loft, river_view, study",2008916.0,1748237.4833333334
+Hillingdon,412.0,3,3,Flat,2007,0.6642699411085814,"concierge, garage, gym",120000.0,120000.0
+Havering,959.0,4,2,Flat,1951,0.6251915855882739,"balcony, concierge, ensuite, park_view, parking, river_view",1142357.0,1204822.1533333333
+Hounslow,819.0,1,1,Flat,1938,0.5251200790950977,"concierge, garden, gym, park_view",484258.0,543620.8033333333
+Bromley,451.0,1,2,Flat,1903,0.577989000101753,study,120000.0,120000.0
+Merton,840.0,3,3,Studio,1886,3.1142730402458416,parking,801876.0,672590.5933333334
+Camden,642.0,3,2,Studio,1925,1.6460955795400685,"ensuite, new_build, parking",343688.0,232832.04666666666
+Hounslow,747.0,4,3,Detached,2000,0.4403541331184353,loft,427826.0,537482.76
+Barnet,1002.0,2,1,Flat,1926,0.2879490672685147,new_build,1132146.0,1136508.2966666666
+Wandsworth,812.0,4,1,Flat,1879,0.165686542036189,"near_tube, new_build, park_view, parking, river_view",709956.0,624386.3266666667
+Brent,1147.0,3,2,Terraced,1915,2.1805733829218763,study,1682989.0,1589869.0466666666
+Southwark,837.0,1,2,Semi-Detached,1875,3.821405337477033,"cellar, gym, lift, loft, parking, river_view",491456.0,573785.5233333333
+Kensington and Chelsea,608.0,5,3,Maisonette,1878,0.5707841853797981,"balcony, ensuite, park_view, river_view, study",499463.0,398900.62
+Merton,874.0,1,1,Terraced,1868,0.6119088000361442,"concierge, garage, loft, park_view, river_view, study",631064.0,715323.2633333333
+Hounslow,548.0,1,3,Flat,1884,2.165682106625979,"balcony, concierge, gym, parking, river_view",120000.0,120639.87666666666
+Redbridge,901.0,5,2,Studio,1945,1.0166200026855454,"cellar, garage, near_tube, river_view, study",983612.0,1013813.1366666667
+Hammersmith and Fulham,599.0,3,1,Flat,1896,0.4306790018674634,concierge,326666.0,162658.06666666668
+Waltham Forest,1442.0,5,1,Terraced,2002,2.0903852127490894,"garage, lift",2622210.0,2654318.9833333334
+Wandsworth,838.0,2,3,Terraced,1955,1.0597566868242916,"balcony, ensuite, garden, gym, parking",955400.0,748715.5766666667
+City of London,371.0,3,3,Flat,1988,1.49209987554531,"gym, park_view",120000.0,122299.99666666667
+Ealing,1000.0,3,2,Flat,1961,0.1334136725377504,"concierge, garden, gym, loft, near_tube",1210692.0,1256649.3466666667
+Wandsworth,1147.0,2,1,Terraced,1973,1.924691748370941,"balcony, gym, park_view, study",1801248.0,1560235.72
+Brent,696.0,3,1,Terraced,2023,1.4394989377020992,"concierge, ensuite, gym",355277.0,335592.68333333335
+Brent,250.0,2,2,Flat,2022,1.062164280404528,cellar,120000.0,120000.0
+Bexley,524.0,1,2,Studio,1921,0.6818416622089325,"cellar, loft, park_view, parking, river_view, study",120000.0,120000.0
+Redbridge,841.0,5,3,Terraced,1920,0.5676202788361938,river_view,882150.0,799175.4766666667
+Westminster,559.0,4,2,Semi-Detached,1929,0.6943794930348803,"cellar, concierge, garage, parking, river_view",218120.0,148453.08666666667
+Islington,906.0,1,3,Flat,1962,0.5675727041349413,"gym, loft, parking, study",1102108.0,956441.7466666667
+Ealing,578.0,5,2,Terraced,1859,1.0435918326934996,"near_tube, park_view",120000.0,131755.25333333333
+Bexley,578.0,1,1,Detached,1949,2.046824673028523,"garage, near_tube, new_build",120000.0,143449.57
+Haringey,935.0,3,2,Flat,2016,0.4955666153785659,"concierge, garage, study",1085053.0,1086693.65
+Barking and Dagenham,1265.0,3,3,Flat,1885,1.0628366131138998,"concierge, garage, new_build, park_view, study",1980477.0,1974213.2733333334
+Harrow,583.0,3,2,Flat,1922,0.5634941971825085,"cellar, study",120000.0,124331.14333333333
+Haringey,777.0,4,2,Flat,1984,0.7647631765522523,"balcony, concierge, garage, lift, park_view, study",743892.0,643268.4366666666
+Harrow,1174.0,1,3,Detached,1875,3.0230631055946633,"garage, gym, river_view",1544572.0,1631889.53
+Lambeth,731.0,3,3,Terraced,1990,1.338774616466757,"parking, study",435168.0,505974.61666666664
+Barking and Dagenham,1315.0,4,2,Maisonette,1979,1.7191642083395984,"lift, loft, near_tube, park_view, river_view",2084822.0,2156847.6566666667
+Hackney,887.0,4,3,Terraced,1881,0.9953123359106256,"balcony, lift, new_build",987382.0,854699.2766666666
+Islington,729.0,3,3,Flat,1986,0.5894430596206178,"concierge, ensuite",689055.0,486175.60333333333
+Hammersmith and Fulham,1186.0,2,3,Semi-Detached,1891,0.0805198641744672,"gym, river_view, study",2057453.0,1801789.1133333333
+Harrow,1146.0,4,3,Detached,1992,0.8874636736303717,"balcony, garden, lift, new_build",1796965.0,1701084.64
+Newham,650.0,1,1,Terraced,2005,2.514418134234839,"near_tube, new_build, parking",120000.0,193756.07333333333
+Lewisham,754.0,2,2,Flat,1881,0.8023465796114618,"ensuite, new_build",234028.0,370529.19333333336
+Westminster,775.0,3,3,Terraced,1905,4.2189855368981055,"garage, lift, loft, new_build, parking, study",888978.0,756108.5666666667
+Hounslow,973.0,2,1,Flat,1959,0.4898976266759053,"garage, garden, near_tube, park_view, river_view",1041461.0,1079981.9233333333
+Bexley,1148.0,3,3,Flat,2018,1.2691675600424277,"concierge, garage, garden, new_build, parking, river_view",1611431.0,1687668.7366666666
+City of London,905.0,2,1,Detached,2004,2.2735051045289634,"balcony, garage",1178845.0,1226741.28
+Kingston upon Thames,849.0,3,1,Flat,1983,0.526710306019603,"balcony, garage, garden, lift, new_build",839245.0,840851.8666666667
+Tower Hamlets,1287.0,1,1,Semi-Detached,1876,1.000707462650262,"garden, gym, lift, new_build, parking",1959599.0,1976166.2366666666
+Kensington and Chelsea,824.0,3,2,Flat,1894,2.4634968760726053,"cellar, concierge, gym, loft, new_build, parking",973500.0,1087759.1833333333
+Islington,970.0,4,3,Terraced,2019,2.1823048167275485,"garage, park_view, river_view, study",1542205.0,1242783.84
+Islington,603.0,3,3,Terraced,1935,1.2392539703319974,"cellar, garden",120000.0,179562.84
+Haringey,663.0,1,1,Flat,1923,0.4892641573193121,"ensuite, garden, near_tube",184161.0,186160.9
+Kensington and Chelsea,806.0,5,3,Flat,1888,0.7623764175399977,"garage, lift, new_build",1213896.0,1006620.1766666666
+Barnet,1330.0,2,3,Flat,1867,1.0214780714005527,"balcony, gym, lift, parking",2189173.0,2234898.6666666665
+Barnet,1013.0,3,3,Terraced,1943,2.0637647935856185,"concierge, ensuite, garden, new_build",1253754.0,1261021.4133333333
+Hackney,595.0,3,3,Flat,1991,2.734464077123881,"garden, lift, near_tube, park_view",242105.0,157356.44
+Croydon,633.0,5,2,Flat,1961,1.0232573491947028,"ensuite, garden, near_tube",266274.0,213735.65666666668
+Newham,793.0,2,2,Maisonette,1856,3.1871113624370984,"ensuite, garage, garden, near_tube, new_build, river_view",403377.0,454589.4166666667
+Wandsworth,1228.0,2,3,Terraced,1983,1.5503873196871851,"balcony, gym",2009903.0,1959590.52
+City of London,681.0,2,3,Terraced,1913,0.9033971115808191,"cellar, concierge, parking, river_view, study",662492.0,564749.1
+Lewisham,912.0,3,2,Semi-Detached,1976,0.1674388246232321,"balcony, cellar, lift, loft",949516.0,1018147.46
+Waltham Forest,1144.0,2,1,Flat,1890,0.8718385313930533,parking,1344291.0,1496159.2033333334
+Newham,835.0,3,3,Studio,1863,1.9819329791720517,"cellar, garage",516766.0,650723.51
+Newham,858.0,3,3,Flat,1896,2.132250101935872,loft,737637.0,698408.7633333333
+Waltham Forest,440.0,3,3,Terraced,1869,1.7976137617200691,"balcony, new_build, parking, study",120000.0,120000.0
+Hillingdon,398.0,1,1,Studio,1984,0.8265927918753485,"cellar, concierge, lift, parking",120000.0,120000.0
+Barking and Dagenham,816.0,5,2,Maisonette,1896,0.3730701828832611,cellar,481665.0,653563.22
+Hackney,700.0,5,1,Terraced,1903,2.0451550689842013,"balcony, cellar, lift, loft, near_tube",422461.0,330557.85333333333
+Havering,1422.0,3,1,Flat,1931,1.7185895286165582,"cellar, concierge, garage, park_view, study",2227655.0,2371719.3566666665
+Kingston upon Thames,1522.0,4,3,Detached,1989,1.3780172576616585,garage,2910263.0,2918109.45
+Newham,525.0,3,1,Terraced,1935,0.6630406702462676,"garage, parking",120000.0,121114.48666666666
+Wandsworth,555.0,4,2,Flat,2007,2.218440170138503,"gym, park_view, parking",120000.0,122818.69333333333
+Redbridge,1221.0,4,2,Terraced,1874,0.1166491030299128,"balcony, garden",1729097.0,1774458.1266666667
+Waltham Forest,975.0,2,1,Studio,2008,0.2775001730449175,"concierge, ensuite, garage, loft, new_build, river_view",1152031.0,1097739.9466666668
+City of London,770.0,2,3,Semi-Detached,1990,2.197258486954926,"balcony, cellar, ensuite, near_tube, park_view, river_view",755507.0,680328.1466666666
+Southwark,854.0,4,2,Terraced,1850,0.8846360326816601,"balcony, concierge, river_view, study",745270.0,762395.1833333333
+Lambeth,562.0,1,2,Flat,1851,0.2605887661837418,"concierge, garage, garden, loft, parking",120000.0,124969.78333333334
+Kingston upon Thames,798.0,2,2,Flat,1934,0.376705473274159,"garden, lift, near_tube, parking, river_view, study",664119.0,596842.62
+Haringey,689.0,4,3,Detached,2003,1.076329510612696,"cellar, concierge, garage, garden, park_view",392590.0,347181.5133333333
+Havering,660.0,1,3,Flat,1985,1.3213610685409751,"lift, river_view",145688.0,264867.0966666667
+Lambeth,942.0,2,2,Flat,1881,3.585767115416376,"cellar, ensuite, garage, park_view, study",974330.0,921406.55
+Kensington and Chelsea,848.0,4,1,Detached,1999,1.6171532147068186,"gym, loft, study",1378505.0,1276292.0966666667
+City of London,759.0,3,3,Studio,1870,1.0822874657479826,"cellar, concierge, new_build",811991.0,563081.31
+Lambeth,1422.0,5,1,Terraced,1931,1.6531969518299372,"cellar, garage, gym",2647425.0,2409396.11
+Greenwich,1297.0,1,1,Flat,2013,2.459771856136818,"balcony, ensuite, new_build",2013492.0,2089314.1033333333
+Harrow,749.0,1,3,Semi-Detached,1926,0.3462774704178083,"balcony, ensuite, garage, garden, gym, near_tube",436035.0,464076.42
+Lewisham,250.0,5,2,Flat,1943,0.7349592891208493,"concierge, garden, lift, loft, near_tube, new_build",120000.0,120000.0
+Haringey,892.0,2,3,Flat,1909,0.7898156829529895,"garden, lift, loft, new_build, study",907240.0,809991.83
+Kensington and Chelsea,610.0,5,1,Maisonette,2007,1.5536027936782906,loft,612283.0,460723.3333333333
+City of London,962.0,1,1,Flat,1860,0.5438110753728365,cellar,1358821.0,1268611.1766666668
+Barking and Dagenham,988.0,5,1,Flat,1880,1.2197072401031177,"cellar, garden, gym, new_build, parking, study",1013370.0,1148747.8533333333
+Kensington and Chelsea,527.0,4,1,Flat,1937,0.7314407565980312,loft,160496.0,239378.09
+Tower Hamlets,257.0,5,2,Flat,1888,1.050868791830644,"balcony, garden",120000.0,120000.0
+Haringey,1049.0,5,2,Semi-Detached,1959,0.9597729720665342,"balcony, garage, loft, near_tube, new_build, parking",1595726.0,1445574.3166666667
+Richmond upon Thames,931.0,1,1,Flat,2006,1.8608615701169375,cellar,1053848.0,1070452.12
+Westminster,802.0,4,3,Flat,2020,0.4947408508510488,new_build,986742.0,929875.2933333333
+Islington,528.0,2,3,Flat,1950,0.1592564410480349,"concierge, new_build, park_view, river_view",120000.0,120000.0
+Waltham Forest,615.0,4,2,Flat,1984,0.242361189642591,"near_tube, study",124613.0,161940.03
+Sutton,731.0,5,3,Flat,1914,1.0851502155861743,"concierge, lift, loft, parking, study",428661.0,452933.7633333333
+Kensington and Chelsea,421.0,2,1,Flat,1877,0.4400610372798735,"cellar, concierge, loft, park_view, study",120000.0,124658.56
+Wandsworth,819.0,3,2,Detached,1873,1.0768698551788085,"cellar, garden, near_tube",763849.0,747250.36
+Merton,925.0,5,2,Terraced,1963,0.2859329788121805,"concierge, ensuite, garage, gym, loft, parking",1260813.0,1098065.8333333333
+Greenwich,686.0,2,2,Flat,2020,1.2283713508556986,lift,357661.0,272609.01666666666
+Ealing,964.0,4,1,Flat,1979,1.2663261318277372,"cellar, concierge",1151367.0,1245237.2933333332
+Sutton,328.0,1,1,Semi-Detached,1867,0.3274984967107072,"cellar, garden, loft, parking, river_view",120000.0,120000.0
+Westminster,509.0,2,3,Flat,1894,2.666944287791987,"cellar, new_build, study",120000.0,121028.23333333334

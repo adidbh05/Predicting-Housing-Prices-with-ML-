@@ -1,0 +1,32 @@
+{
+  "target": "price",
+  "features": [
+    "location",
+    "square_footage",
+    "bedrooms",
+    "bathrooms",
+    "property_type",
+    "year_built",
+    "distance_to_tube_km",
+    "amenities"
+  ],
+  "numeric_cols": [
+    "square_footage",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "distance_to_tube_km"
+  ],
+  "categorical_cols": [
+    "location",
+    "property_type"
+  ],
+  "text_cols": [
+    "amenities"
+  ],
+  "metrics": {
+    "mae": 86267.53887,
+    "rmse": 121118.34811334252,
+    "r2": 0.9737032214473361
+  }
+}

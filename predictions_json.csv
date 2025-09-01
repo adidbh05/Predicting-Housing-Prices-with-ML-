@@ -1,0 +1,6 @@
+location,square_footage,bedrooms,bathrooms,property_type,year_built,distance_to_tube_km,amenities,predicted_price
+Camden,1341,3,3,Studio,1994,0.9346425114,river_view,2342164.5433333335
+Redbridge,1219,4,3,Detached,1982,2.3577721188,"balcony, lift, loft, river_view, study",1954160.6866666668
+Brent,668,5,1,Maisonette,1946,1.2397357811,"gym, loft, parking",304587.26
+Havering,647,3,2,Flat,1996,4.1709267866,"concierge, ensuite, garden, lift, park_view",207799.52666666667
+Croydon,327,2,1,Studio,2023,2.3836970372,"balcony, gym, new_build, river_view, study",120798.86

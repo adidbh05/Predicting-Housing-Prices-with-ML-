@@ -1,19 +1,18 @@
-London House Price Prediction (Synthetic)
+# 🏠 Predicting Housing Prices with ML
 
-Commands
-- Create venv + install: `make install`
-- Generate data: `make data`
-- Train model: `make train`
-- Cross-validate: `make cv`
-- Predict on new listings: `make predict`
-- Full pipeline: `make all`
+A machine learning project that forecasts London house prices using structured data (location, square footage, bedrooms, bathrooms, amenities, distance to tube, etc.).  
+Built with **Python, Scikit-Learn, Pandas, NumPy**, and deployed through a reproducible pipeline.
 
-Artifacts
-- Training data: `london_house_prices.csv`
-- New rows: `new_listings.csv`
-- Model: `artifacts/model.joblib`
-- Metadata: `artifacts/metadata.json`
-- Predictions: `predictions.csv`
+---
 
-Notes
-- Data is synthetic but engineered to be plausible with borough effects, square footage, bedrooms/bathrooms, property type, tube distance, year built, and text-like amenities.
+## 🚀 Features
+- Data preprocessing and cleaning  
+- Feature engineering (borough effects, text-like amenities, property metadata)  
+- Model training & evaluation (Random Forest, cross-validation, error analysis)  
+- Automated pipeline with `Makefile` for reproducibility  
+- Visualizations of residuals, prediction accuracy, and feature effects  
+- Predictions on new listings (`new_listings.csv`)  
+
+---
+
+## 📂 Project Structure
